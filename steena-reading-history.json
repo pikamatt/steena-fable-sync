@@ -1,0 +1,4571 @@
+{
+  "lastUpdated": "2026-09-04T02:54:58.135957+00:00",
+  "profile": {
+    "displayName": "Steena",
+    "profileUrl": "https://fable.co/fabler/steena-244021637723",
+    "userId": "6860cd61-1f14-434a-a914-c8efedcaca15"
+  },
+  "lists": {
+    "want_to_read": {
+      "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
+      "count": 118,
+      "privacy": "everyone"
+    },
+    "current_reading": {
+      "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
+      "count": 3,
+      "privacy": "everyone"
+    },
+    "finished": {
+      "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
+      "count": 121,
+      "privacy": "everyone"
+    },
+    "did_not_finish": {
+      "id": "592ee783-b082-44ef-add1-87392747e1f6",
+      "count": 2,
+      "privacy": "everyone"
+    }
+  },
+  "books": [
+    {
+      "status": "want_to_read",
+      "title": "Acquired Taste",
+      "author": "Clay McLeod Chapman",
+      "fableBookId": "7b41e963-448a-44b1-88c9-b9c1e555e6a4",
+      "isbn": "9781835410806",
+      "genres": [
+        "Horror",
+        "Short Stories"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 154
+    },
+    {
+      "status": "want_to_read",
+      "title": "Trouble at Brayshaw High",
+      "author": "Meagan Brandy",
+      "fableBookId": "20bab9b0-9db7-4912-b9ea-85b3a4eadef3",
+      "isbn": "dtqzcp0O7n",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 153
+    },
+    {
+      "status": "want_to_read",
+      "title": "Reign of Brayshaw (Brayshaw High #3)",
+      "author": "Meagan Brandy",
+      "fableBookId": "a9107a97-016b-40fb-ba8a-718f6b02add9",
+      "isbn": "wKsqVUWGAj",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 151
+    },
+    {
+      "status": "want_to_read",
+      "title": "NoFear (ClikByte Book 1)",
+      "author": "tate james",
+      "fableBookId": "6059c089-f658-4706-8db4-411afaef25de",
+      "isbn": "UKzOJINtd8",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 150
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Love Hypothesis",
+      "author": "Ali Hazelwood",
+      "fableBookId": "78fb9967-94ec-48b3-b949-b8925119b34c",
+      "isbn": "9780593336830",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 149
+    },
+    {
+      "status": "want_to_read",
+      "title": "An Arcane Inheritance",
+      "author": "Kamilah Cole",
+      "fableBookId": "e913c282-8901-4cb7-9a31-fb98c8c9b363",
+      "isbn": "9781464216916",
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 148
+    },
+    {
+      "status": "want_to_read",
+      "title": "Daggermouth",
+      "author": "H. M. Wolfe",
+      "fableBookId": "16f6ee78-0c1d-4d43-ba67-88b0e57457c1",
+      "isbn": "9798347122387",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 147
+    },
+    {
+      "status": "want_to_read",
+      "title": "What Kind of Mother",
+      "author": "Clay McLeod Chapman",
+      "fableBookId": "5bcfd660-c805-4ffb-8987-5824952bea19",
+      "isbn": "9781683693819",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 146
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Deepest Lake",
+      "author": "Andromeda Romano-Lax",
+      "fableBookId": "926d0349-de80-4c37-955e-e161860f12bd",
+      "isbn": "9781641295611",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 145
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "fableBookId": "fd6f4534-5a34-4d12-93a4-acf9b2a6153b",
+      "isbn": "9780759527737",
+      "genres": [
+        "Literary Fiction",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 144
+    },
+    {
+      "status": "want_to_read",
+      "title": "For You and Only You",
+      "author": "Caroline Kepnes",
+      "fableBookId": "a4a858ae-c6c8-454d-8af1-fb291ae7fd58",
+      "isbn": "9780593133835",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 143
+    },
+    {
+      "status": "want_to_read",
+      "title": "You Love Me",
+      "author": "Caroline Kepnes",
+      "fableBookId": "97f10ded-56a2-4c56-a262-dcc59e282369",
+      "isbn": "9780593133804",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 142
+    },
+    {
+      "status": "want_to_read",
+      "title": "Hidden Bodies",
+      "author": "Caroline Kepnes",
+      "fableBookId": "8fadacfc-c8d2-40b7-a09b-ba5cf55c7f43",
+      "isbn": "9781476785646",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 141
+    },
+    {
+      "status": "want_to_read",
+      "title": "Quicksilver",
+      "author": "Callie Hart",
+      "fableBookId": "c1293579-d08b-432d-ba47-4c96f7c6eb24",
+      "isbn": "9781538774212",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 140
+    },
+    {
+      "status": "want_to_read",
+      "title": "How to Be Eaten",
+      "author": "Maria Adelmann",
+      "fableBookId": "f7920b17-0b6a-419d-b6ba-60a89be30334",
+      "isbn": "9780316450829",
+      "genres": [
+        "Fantasy",
+        "Literary Fiction"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 139
+    },
+    {
+      "status": "want_to_read",
+      "title": "Caraval",
+      "author": "Stephanie Garber",
+      "fableBookId": "5e2d77f1-18eb-4845-8e12-21e2c69b8c6b",
+      "isbn": "9781250095275",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 138
+    },
+    {
+      "status": "want_to_read",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "fableBookId": "7579b7c4-8566-4b35-8b4a-a2302743bcfa",
+      "isbn": "9781635575569",
+      "genres": [
+        "Fantasy",
+        "Fiction",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 137
+    },
+    {
+      "status": "want_to_read",
+      "title": "Psycho Shifters (Cruel Shifterverse, #1)",
+      "author": "Jasmine Mas",
+      "fableBookId": "e8b43d39-4e6b-40e4-b3bf-61a540fa9105",
+      "isbn": "NovprKLXHh",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 136
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Ten Thousand Doors of January",
+      "author": "Alix E. Harrow",
+      "fableBookId": "64588cb0-64be-47fc-8b60-5996cfebbac6",
+      "isbn": "9780316421980",
+      "genres": [
+        "Fantasy",
+        "Historical Fiction"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 135
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Surrogate Mother",
+      "author": "Freida McFadden",
+      "fableBookId": "24013d09-eaa2-45dd-ad05-428930f861ca",
+      "isbn": "jqh4UcLPnG",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 133
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Crash",
+      "author": "Freida McFadden",
+      "fableBookId": "617dd1d8-ec6d-4028-a271-d9193211e13e",
+      "isbn": "3RxFmtnlM6",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 132
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Locked Door",
+      "author": "Freida McFadden",
+      "fableBookId": "3dfb3c3b-0d67-4b62-a8e4-6190002f0d87",
+      "isbn": "gaBbmhv27b",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 131
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Housemaid Is Watching (The Housemaid, #3)",
+      "author": "Freida McFadden",
+      "fableBookId": "6977b13e-710b-4f95-9010-fce8a54ba38c",
+      "isbn": "9781464221132",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 130
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Midnight Feast",
+      "author": "Lucy Foley",
+      "fableBookId": "152b670c-5990-4b02-ad07-48a6466977f6",
+      "isbn": "9780063003125",
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 129
+    },
+    {
+      "status": "want_to_read",
+      "title": "Tell Me What You Did",
+      "author": "Carter Wilson",
+      "fableBookId": "2fa3d497-faab-480c-bfca-657a603c694a",
+      "isbn": "9781464226236",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 128
+    },
+    {
+      "status": "want_to_read",
+      "title": "Den of Vipers",
+      "author": "K.A. Knight",
+      "fableBookId": "a565082d-55fd-451f-90ab-ec0fd2fedb3f",
+      "isbn": "HZIx1fKrzL",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 127
+    },
+    {
+      "status": "want_to_read",
+      "title": "Blackwood Institute: The Complete Trilogy",
+      "author": "J.    Rose",
+      "fableBookId": "b12b7dd0-892a-473d-9b06-a9494f5146d1",
+      "isbn": "3oGMifXedt",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 126
+    },
+    {
+      "status": "want_to_read",
+      "title": "Alchemised",
+      "author": "SenLinYu",
+      "fableBookId": "691fdc14-2645-485c-9753-5fd2931a3a6a",
+      "isbn": "9780593972700",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 125
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Mindf*ck Series",
+      "author": "S.T. Abby",
+      "fableBookId": "b345a03d-0541-4f3f-8c2e-d39891f0dd42",
+      "isbn": "9781091074699",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Short Stories",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 124
+    },
+    {
+      "status": "want_to_read",
+      "title": "Evil Boys",
+      "author": "Clarissa Wild",
+      "fableBookId": "eaa5ebb2-0f4f-47e9-bbcc-0f1e4ce7adae",
+      "isbn": "Q3o2vcdcdS",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 123
+    },
+    {
+      "status": "want_to_read",
+      "title": "Scream For Us",
+      "author": "Molly Doyle",
+      "fableBookId": "4ae86466-9a15-4b73-8a19-d3466b45eebd",
+      "isbn": "n86K6hMsJB",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 122
+    },
+    {
+      "status": "want_to_read",
+      "title": "An Education in Malice",
+      "author": "S. T. Gibson",
+      "fableBookId": "8bc089cf-d3c2-4a67-a0c4-8d468e120d7d",
+      "isbn": "9780316501972",
+      "genres": [
+        "Fantasy",
+        "LGBTQ+",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 121
+    },
+    {
+      "status": "want_to_read",
+      "title": "Nightshade",
+      "author": "Autumn Woods",
+      "fableBookId": "3d841ca2-bda2-44de-a9ee-07b30f9a598a",
+      "isbn": "9781638933748",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 120
+    },
+    {
+      "status": "want_to_read",
+      "title": "A Lesson in Thorns (Thornchapel, #1)",
+      "author": "Sierra Simone",
+      "fableBookId": "48f36148-37a3-45f7-a39a-51af5a0fb4b8",
+      "isbn": "boXxQOfFLk",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 119
+    },
+    {
+      "status": "want_to_read",
+      "title": "Slash or Pass (Final Girls)",
+      "author": "Tylor Paige",
+      "fableBookId": "ff52a53f-073f-40b8-af91-e1bf28763509",
+      "isbn": "nSvuTd5ekT",
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 118
+    },
+    {
+      "status": "want_to_read",
+      "title": "Hate",
+      "author": "Tate James",
+      "fableBookId": "9c912267-ec63-4a00-9d31-afce2284f2e1",
+      "isbn": "9781922688170",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 117
+    },
+    {
+      "status": "want_to_read",
+      "title": "Sick Fux",
+      "author": "Tillie Cole",
+      "fableBookId": "db302ef3-8914-4752-90e9-39152fcda5ae",
+      "isbn": "R5anEpDbJu",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 116
+    },
+    {
+      "status": "want_to_read",
+      "title": "Nocticadia",
+      "author": "Keri Lake",
+      "fableBookId": "4b8163e8-d464-4015-a77d-1477b4874abf",
+      "isbn": "UfCHOA1gHX",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 115
+    },
+    {
+      "status": "want_to_read",
+      "title": "God of Pain (Legacy of Gods, #2)",
+      "author": "Rina Kent",
+      "fableBookId": "2ba9f0c3-c783-4dd7-910f-3f9c3e2a0eb8",
+      "isbn": "vBdG3nYTwO",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 114
+    },
+    {
+      "status": "want_to_read",
+      "title": "God of Malice",
+      "author": "Rina Kent",
+      "fableBookId": "e306baca-fdf3-4240-bc5c-8c4d9f75a465",
+      "isbn": "9781685450984",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 113
+    },
+    {
+      "status": "want_to_read",
+      "title": "Kiss The Villain",
+      "author": "Rina Kent",
+      "fableBookId": "dce7acec-ed2f-4e5c-857e-5fabf14252e8",
+      "isbn": "YfZcH773eK",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 112
+    },
+    {
+      "status": "want_to_read",
+      "title": "Black Sheep",
+      "author": "Brynne Weaver, Alexa Harlowe",
+      "fableBookId": "052e9f9d-1843-439b-82cb-f13d93859961",
+      "isbn": "JzmM9dgGht",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 111
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Veiled Kingdom",
+      "author": "Holly Renee",
+      "fableBookId": "06bc7dca-c405-4a61-a9b7-00da06ba01b3",
+      "isbn": "bQvZI7UTiN",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 110
+    },
+    {
+      "status": "want_to_read",
+      "title": "Keep Me",
+      "author": "Sara Cate",
+      "fableBookId": "cb5992ac-04c6-4589-a548-614763dc3f76",
+      "isbn": "9781728282206",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 109
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Dead Guy Next Door: Riley Thorn",
+      "author": "Lucy Score Score",
+      "fableBookId": "453f107c-24c9-4cbd-a5da-ec8867dc0be2",
+      "isbn": "97Ll9S33je",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 108
+    },
+    {
+      "status": "want_to_read",
+      "title": "My Dark Beast",
+      "author": "Olivia Wildenstein",
+      "fableBookId": "ec348f2c-1f22-4294-9853-e99ba1346b3b",
+      "isbn": "ZTMouEqpJL",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 107
+    },
+    {
+      "status": "want_to_read",
+      "title": "Court of Nightmares (Courts and Kings)",
+      "author": "K.A. Knight",
+      "fableBookId": "221d04a4-0cd8-4e38-9ac9-f47625029c29",
+      "isbn": "3dr45V4bn7",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 106
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Female",
+      "author": "Invi Wright",
+      "fableBookId": "32db39bf-ceba-486e-a4c3-40403da46ee3",
+      "isbn": "B0BTB7458M",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 105
+    },
+    {
+      "status": "want_to_read",
+      "title": "Silver Tongue Devil",
+      "author": "Stacey Marie Brown",
+      "fableBookId": "a7005196-5451-4a79-bc51-98d81e43a710",
+      "isbn": "9781956600513",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 104
+    },
+    {
+      "status": "want_to_read",
+      "title": "Devil in Boots (Devil in the Deep Blue Sea, #2)",
+      "author": "Stacey Marie Brown",
+      "fableBookId": "1ddeaa6d-daef-4494-8000-fb0934a3b883",
+      "isbn": "5EaVT096dX",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 103
+    },
+    {
+      "status": "want_to_read",
+      "title": "Court of the Vampire Queen",
+      "author": "Katee Robert",
+      "fableBookId": "aa2e5d1d-7dce-4524-be65-ad4a9dd9a991",
+      "isbn": "9781728264691",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 101
+    },
+    {
+      "status": "want_to_read",
+      "title": "Kiss of the Basilisk",
+      "author": "Lindsay Straube",
+      "fableBookId": "f0be4906-8a5f-4888-b122-daf6d9bee57f",
+      "isbn": "9781464247583",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 100
+    },
+    {
+      "status": "want_to_read",
+      "title": "Older",
+      "author": "Jennifer Hartmann",
+      "fableBookId": "24006238-4f7a-498d-bfb1-c36e166ffecc",
+      "isbn": "bDEkmWuRm0",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 99
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Cursed",
+      "author": "Harper L. Woods",
+      "fableBookId": "ac3fed32-f37f-4034-9a98-8affd4b9f5ab",
+      "isbn": "9781250344298",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 98
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Coven",
+      "author": "Harper L. Woods",
+      "fableBookId": "b775262a-c3c4-4872-afb5-aa72723635b4",
+      "isbn": "9781250344274",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 97
+    },
+    {
+      "status": "want_to_read",
+      "title": "Helfyre",
+      "author": "Mariel Pomeroy",
+      "fableBookId": "ad81820c-bf10-4a74-a613-a63454579a72",
+      "isbn": "oNmoLf3XRC",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 96
+    },
+    {
+      "status": "want_to_read",
+      "title": "Firebird: Special Edition (The Fire That Binds, #1)",
+      "author": "Juliette Cross",
+      "fableBookId": "404b6789-d2fa-454f-b840-38fb64b33dd9",
+      "isbn": "9781250339942",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 95
+    },
+    {
+      "status": "want_to_read",
+      "title": "Shatter Me",
+      "author": "Tahereh Mafi",
+      "fableBookId": "3a5ebd3d-ffc5-44c5-9100-05daac1656dd",
+      "isbn": "9780062085511",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 94
+    },
+    {
+      "status": "want_to_read",
+      "title": "Pen Pal",
+      "author": "J.T. Geissinger",
+      "fableBookId": "58a77e97-20f5-45d7-9951-25990625233d",
+      "isbn": "B0CKLQ12NB",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 93
+    },
+    {
+      "status": "want_to_read",
+      "title": "Grimstone",
+      "author": "Sophie Lark",
+      "fableBookId": "32d4e34a-7496-4813-b848-95e5f0db5742",
+      "isbn": "sCoWVHvNpa",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 92
+    },
+    {
+      "status": "want_to_read",
+      "title": "Still Beating",
+      "author": "Jennifer Hartmann",
+      "fableBookId": "6ca9979c-aa3a-4496-8b7b-4d910aeb2382",
+      "isbn": "XpNQFgvf7q",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 91
+    },
+    {
+      "status": "want_to_read",
+      "title": "There Is No Devil",
+      "author": "Sophie Lark",
+      "fableBookId": "70f3f136-54ed-4c6c-bb7b-dcd700b51558",
+      "isbn": "y8nUs6wO0e",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 90
+    },
+    {
+      "status": "want_to_read",
+      "title": "There Are No Saints",
+      "author": "Sophie Lark",
+      "fableBookId": "c6aebaa7-75e4-4578-bca0-45b548a7410d",
+      "isbn": "UWSxbxK6FZ",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 89
+    },
+    {
+      "status": "want_to_read",
+      "title": "KID",
+      "author": "Jescie Hall",
+      "fableBookId": "74416936-11f7-4e6b-acdf-cb7e4687d2ce",
+      "isbn": "KZJ08vYUUI",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 88
+    },
+    {
+      "status": "want_to_read",
+      "title": "HAWKE",
+      "author": "Jescie Hall",
+      "fableBookId": "ebd15585-7eaa-48d9-8b5b-a2bb057e2a4f",
+      "isbn": "gKE9eeT51b",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 87
+    },
+    {
+      "status": "want_to_read",
+      "title": "Free Fall (Wilde Boys, #2)",
+      "author": "Sara Cate",
+      "fableBookId": "12a93efb-78e3-428b-ab9a-a6bc3f36a87a",
+      "isbn": "195683009X",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 86
+    },
+    {
+      "status": "want_to_read",
+      "title": "Burn for Me",
+      "author": "Sara Cate",
+      "fableBookId": "48e5698b-f5fb-45aa-bedb-caab35f010f3",
+      "isbn": "JQlaRSV4b5",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 85
+    },
+    {
+      "status": "want_to_read",
+      "title": "Beautiful Sinner",
+      "author": "Sara Cate",
+      "fableBookId": "dc2adffe-4632-4208-85bc-a4d97a1c1aba",
+      "isbn": "vkuqtkRQk6",
+      "genres": [
+        "Religion & Spirituality",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 84
+    },
+    {
+      "status": "want_to_read",
+      "title": "Beautiful Monster",
+      "author": "Sara Cate",
+      "fableBookId": "4764b9bc-b8b8-4383-8267-aed91493f5eb",
+      "isbn": "HjcQMm1GnL",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 83
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Prodigal Son",
+      "author": "Sara Cate",
+      "fableBookId": "06245115-b289-4d93-8e88-7b2b0376fa55",
+      "isbn": "B0D8LLWGRZ",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 82
+    },
+    {
+      "status": "want_to_read",
+      "title": "Five",
+      "author": "Sara Cate",
+      "fableBookId": "50a3f408-bd0e-4a26-9e0d-03d9204f004a",
+      "isbn": "1956830111",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 81
+    },
+    {
+      "status": "want_to_read",
+      "title": "Four",
+      "author": "Sara Cate",
+      "fableBookId": "883930f8-5211-490a-a6cc-4c1c56f2bd75",
+      "isbn": "TuppqdIift",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 80
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Good Girl Effect",
+      "author": "Sara Cate",
+      "fableBookId": "bb9ed890-ec37-4c92-93e6-51c967cad270",
+      "isbn": "9781464234460",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 79
+    },
+    {
+      "status": "want_to_read",
+      "title": "Tryst Six Venom",
+      "author": "Penelope Douglas",
+      "fableBookId": "0118b968-e0dc-45c8-bd16-5fe44700d15a",
+      "isbn": "jiGAgn94Y6",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 78
+    },
+    {
+      "status": "want_to_read",
+      "title": "Falls Boys (Hellbent, #1)",
+      "author": "Penelope Douglas",
+      "fableBookId": "4afa1d2a-7765-4ba2-a15c-2950fa288438",
+      "isbn": "dm2XlKZaTQ",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 77
+    },
+    {
+      "status": "want_to_read",
+      "title": "Her Soul for Revenge (Souls Trilogy, #2)",
+      "author": "Harley Laroux",
+      "fableBookId": "35aaf816-800b-4a09-bb0f-b22463a89145",
+      "isbn": "PeQpHtsmsH",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 76
+    },
+    {
+      "status": "want_to_read",
+      "title": "Her Soul to Take (Souls Trilogy, #1)",
+      "author": "Harley Laroux",
+      "fableBookId": "d53f42f3-1da2-4f38-a2f2-6d6c16c04ca6",
+      "isbn": "KIXKCazwco",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 75
+    },
+    {
+      "status": "want_to_read",
+      "title": "All the Dangerous Things",
+      "author": "Stacy Willingham",
+      "fableBookId": "68822a5f-2710-4894-995d-f94f476a704f",
+      "isbn": "9781250803863",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 74
+    },
+    {
+      "status": "want_to_read",
+      "title": "Don't Let the Forest In",
+      "author": "CG Drews",
+      "fableBookId": "e54cf912-647c-4398-a683-de1d23731430",
+      "isbn": "9781250895653",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 73
+    },
+    {
+      "status": "want_to_read",
+      "title": "Intercepts",
+      "author": "T.J. Payne",
+      "fableBookId": "ce86be42-ca73-4a09-8110-ad958c892efd",
+      "isbn": "mR5SB6QzUL",
+      "genres": [
+        "Fiction",
+        "Horror",
+        "Sci-Fi",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 71
+    },
+    {
+      "status": "want_to_read",
+      "title": "Not Quite Dead Yet",
+      "author": "Holly  Jackson",
+      "fableBookId": "264d3d8e-d063-4b12-b211-6c60d4b20dbf",
+      "isbn": "9780593977057",
+      "genres": [
+        "Mystery",
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 69
+    },
+    {
+      "status": "want_to_read",
+      "title": "How to Sell a Haunted House",
+      "author": "Grady Hendrix",
+      "fableBookId": "270b952c-d62c-409f-aaf8-12d4bcae9fda",
+      "isbn": "9780593201282",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 68
+    },
+    {
+      "status": "want_to_read",
+      "title": "Trick or Treat",
+      "author": "K.M. Rogness",
+      "fableBookId": "23d9e11e-164c-48a2-8259-724e2f3ef03f",
+      "isbn": "rP8PL3vlhH",
+      "genres": [
+        "Horror"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 67
+    },
+    {
+      "status": "want_to_read",
+      "title": "Shallow River",
+      "author": "H.D. Carlton",
+      "fableBookId": "18df981a-96d5-4d0f-b718-d15a6abdc001",
+      "isbn": "xwLgVVc3nt",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 66
+    },
+    {
+      "status": "want_to_read",
+      "title": "Bones",
+      "author": "Shantel Tessier",
+      "fableBookId": "c9ddbbe8-2aaf-4ad6-b070-c3a916670201",
+      "isbn": "Lbav8Egu5R",
+      "genres": [
+        "Romance",
+        "True Crime"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 65
+    },
+    {
+      "status": "want_to_read",
+      "title": "Phantom",
+      "author": "H.D. Carlton",
+      "fableBookId": "896bf677-417b-4290-9546-a9620fac6ce9",
+      "isbn": "9781662525834",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 64
+    },
+    {
+      "status": "want_to_read",
+      "title": "Enigma",
+      "author": "RuNyx",
+      "fableBookId": "2642d77b-040c-44ea-8719-97cdfa48f291",
+      "isbn": "9781250334244",
+      "genres": [
+        "Dark Romance",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 63
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Predator (Dark Verse, #1)",
+      "author": "RuNyx",
+      "fableBookId": "8df3036c-3809-4968-bbda-5abe0a5abedd",
+      "isbn": "B0DV37WXN6",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 61
+    },
+    {
+      "status": "want_to_read",
+      "title": "Leave Me Behind",
+      "author": "K. M. Moronova",
+      "fableBookId": "81b09d3d-a247-4a9f-98e9-034ca4393c2a",
+      "isbn": "9781963474077",
+      "genres": [
+        "Dark Romance",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 60
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Inmate",
+      "author": "Freida McFadden",
+      "fableBookId": "6d2d88ea-21fa-49a9-a61e-d6fef03d8921",
+      "isbn": "ejbPQgGdWb",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 58
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Housemaid's Secret",
+      "author": "Freida McFadden",
+      "fableBookId": "9fde10ea-0a67-4e0a-ac05-5456e938834a",
+      "isbn": "9781538742587",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-12-20",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 57
+    },
+    {
+      "status": "want_to_read",
+      "title": "My Blade, Your Back",
+      "author": "K.M. Moronova",
+      "fableBookId": "9e3dfc11-7ae4-4a0a-a124-44b5752d57f8",
+      "isbn": "4B3PxPveoK",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 56
+    },
+    {
+      "status": "want_to_read",
+      "title": "Your Knife, My Heart (Deluxe Edition) (Dark Forces, 1)",
+      "author": "K. M. Moronova",
+      "fableBookId": "e58fc8a7-e795-4490-a392-06a2aee3ed32",
+      "isbn": "9781464260131",
+      "genres": [
+        "Dark Romance",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-09-25",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 55
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Reappearance of Rachel Price",
+      "author": "Holly Jackson",
+      "fableBookId": "3386429e-fdbf-479b-998a-9f41431aaf8a",
+      "isbn": "9780593374221",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 54
+    },
+    {
+      "status": "want_to_read",
+      "title": "To Bleed a Shadow",
+      "author": "Shana J. Caldwell",
+      "fableBookId": "debbe6b0-714e-408a-b451-a5b6c5af1345",
+      "isbn": "9780645578836",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 1
+    },
+    {
+      "status": "want_to_read",
+      "title": "Home Is Where the Bodies Are",
+      "author": "Jeneva Rose",
+      "fableBookId": "8bb00861-bf22-4acb-90eb-f32d839eb545",
+      "isbn": "9798212182867",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 4
+    },
+    {
+      "status": "want_to_read",
+      "title": "Hunt on Dark Waters",
+      "author": "Katee Robert",
+      "fableBookId": "5b0f6fda-1845-4947-b364-201b72396bf6",
+      "isbn": "9780593639092",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 17
+    },
+    {
+      "status": "want_to_read",
+      "title": "Once Upon a Broken Heart",
+      "author": "Stephanie Garber",
+      "fableBookId": "14016a1d-bb30-4452-a153-b8e89096e82f",
+      "isbn": "9781250268389",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 18
+    },
+    {
+      "status": "want_to_read",
+      "title": "Her Majesty's Royal Coven",
+      "author": "Juno Dawson",
+      "fableBookId": "3a4b4f71-4b46-4dc2-a855-9a754ea9cc48",
+      "isbn": "9780593511138",
+      "genres": [
+        "Fantasy",
+        "LGBTQ+"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 19
+    },
+    {
+      "status": "want_to_read",
+      "title": "Addicted to You",
+      "author": "Becca Ritchie, Krista Ritchie",
+      "fableBookId": "61a6181f-7498-4d53-bb4d-c57792e50eda",
+      "isbn": "0593549473",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 20
+    },
+    {
+      "status": "want_to_read",
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "fableBookId": "569353a2-207b-4ea7-8cb2-50363fa53ddf",
+      "isbn": "9781538724743",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 21
+    },
+    {
+      "status": "want_to_read",
+      "title": "Hex (Robert Grim, #1)",
+      "author": "Thomas Olde Heuvelt",
+      "fableBookId": "7b06a410-66eb-42b4-9742-0aca57ab3129",
+      "isbn": "9780765378811",
+      "genres": [
+        "Fantasy",
+        "Fiction",
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 23
+    },
+    {
+      "status": "want_to_read",
+      "title": "Practice Makes Perfect",
+      "author": "Sarah Adams",
+      "fableBookId": "c0058fa4-3abb-40ee-a626-38571ff4317d",
+      "isbn": "9780593500811",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 24
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Haunting of Ashburn House",
+      "author": "Darcy Coates",
+      "fableBookId": "f9451c37-4208-4976-8680-6e1ae6edc619",
+      "isbn": "9781536596922",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 27
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Dead Take the A Train",
+      "author": "Richard Kadrey, Cassandra Khaw",
+      "fableBookId": "502288f3-5f30-48ac-bfd5-e42bf7970c60",
+      "isbn": "9781250867032",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 28
+    },
+    {
+      "status": "want_to_read",
+      "title": "Holly",
+      "author": "Stephen        King",
+      "fableBookId": "9a4f7905-67d0-493f-9cbb-66278745ab12",
+      "isbn": "9781668016138",
+      "genres": [
+        "Fiction",
+        "Horror",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 30
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Final Girl Support Group",
+      "author": "Grady Hendrix",
+      "fableBookId": "0a110ef4-ea17-4e6f-ab1d-df1d13fa759a",
+      "isbn": "9780593201251",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 31
+    },
+    {
+      "status": "want_to_read",
+      "title": "As Good as Dead",
+      "author": "Holly Jackson",
+      "fableBookId": "375ee33f-3b29-44c5-b327-404346b26379",
+      "isbn": "9780593379875",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 33
+    },
+    {
+      "status": "want_to_read",
+      "title": "Good Girl, Bad Blood",
+      "author": "Holly Jackson",
+      "fableBookId": "e6a68c0a-a862-4e89-9bce-1a8ff8ef9335",
+      "isbn": "9781984896421",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 34
+    },
+    {
+      "status": "want_to_read",
+      "title": "Good Girl, Bad Girl",
+      "author": "Michael Robotham",
+      "fableBookId": "fdc8b3b3-35ff-4798-ad26-8cdfa5ffd4fd",
+      "isbn": "9781982103620",
+      "genres": [
+        "Literary Fiction",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 36
+    },
+    {
+      "status": "want_to_read",
+      "title": "Murder in the Family",
+      "author": "Cara Hunter",
+      "fableBookId": "92107f87-7040-4bcc-8ff2-8ae117bdad80",
+      "isbn": "9780063272088",
+      "genres": [
+        "Literary Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 40
+    },
+    {
+      "status": "want_to_read",
+      "title": "Close to the Bone",
+      "author": "Lisa Black",
+      "fableBookId": "66c6a3a1-4b0e-423e-87fe-e23398e5875f",
+      "isbn": "9781780105529",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 43
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Shadows: Book One of The Blackwell Series",
+      "author": "G.L. Strong",
+      "fableBookId": "3680ed6a-0568-40d4-8d79-a36dcf0c81de",
+      "isbn": "soKB7cGvgE",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 47
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Only Survivors",
+      "author": "Megan Miranda",
+      "fableBookId": "9ed410e1-95c7-41e6-8f20-e75763759434",
+      "isbn": "9781668010433",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 48
+    },
+    {
+      "status": "want_to_read",
+      "title": "Does It Hurt?",
+      "author": "H.D. Carlton",
+      "fableBookId": "0a8430fe-5836-48a1-80a8-91ea28439bbb",
+      "isbn": "aIjjugFGpv",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 50
+    },
+    {
+      "status": "want_to_read",
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "fableBookId": "e0e86bf4-d8a9-42a4-bda9-87cb62b05669",
+      "isbn": "1728274869",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 51
+    },
+    {
+      "status": "want_to_read",
+      "title": "Corrupt",
+      "author": "Penelope Douglas",
+      "fableBookId": "6eb943ff-8d84-46f4-87f6-41d905f02e5d",
+      "isbn": "Axr0krHxG9",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 52
+    },
+    {
+      "status": "want_to_read",
+      "title": "Flock",
+      "author": "Kate Stewart",
+      "fableBookId": "65219bc0-c2aa-4ebc-85b5-9305629802eb",
+      "isbn": "9781496756695",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 53
+    },
+    {
+      "status": "current_reading",
+      "title": "All the Lies (Mindf*ck, #4)",
+      "author": "S.T. Abby",
+      "fableBookId": "921c7deb-92d2-4a63-9e04-eb66588a0919",
+      "isbn": "1UkJ6s507l",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-29",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 15
+    },
+    {
+      "status": "current_reading",
+      "title": "Boys of Brayshaw High",
+      "author": "Meagan Brandy",
+      "fableBookId": "ac646795-4b17-4814-8959-c16c586dc1d9",
+      "isbn": "9798425232526",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-07-29",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 11
+    },
+    {
+      "status": "current_reading",
+      "title": "Bodies of Work",
+      "author": "Clay McLeod Chapman",
+      "fableBookId": "f1a44516-5f08-4165-82b6-6f461c779d08",
+      "isbn": "9781835415948",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-06-20",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Tender Is the Flesh",
+      "author": "Agustina Bazterrica, Sarah Moses",
+      "fableBookId": "3e67b371-ae58-4406-afcc-6b9224dd07ef",
+      "isbn": "9781982151300",
+      "genres": [
+        "Horror",
+        "Literary Fiction"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-29",
+      "finishedReading": "2026-09-03",
+      "note": null,
+      "sortValue": 157
+    },
+    {
+      "status": "finished",
+      "title": "Scarlet Angel (Mindf*ck, #3)",
+      "author": "S.T. Abby",
+      "fableBookId": "7a5cc487-43ce-4606-92e3-cd71e949045b",
+      "isbn": "csU5FcFKiR",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-15",
+      "finishedReading": "2026-08-29",
+      "note": null,
+      "sortValue": 156
+    },
+    {
+      "status": "finished",
+      "title": "The Intruder",
+      "author": "Freida McFadden",
+      "fableBookId": "29667d0e-adca-488b-b5c4-a5994138c833",
+      "isbn": "9781464260919",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-24",
+      "finishedReading": "2026-08-28",
+      "note": null,
+      "sortValue": 155
+    },
+    {
+      "status": "finished",
+      "title": "Don't Puck With My Heart (Pucked Up Omegaverse)",
+      "author": "Sarah Blue",
+      "fableBookId": "851fec19-ed3b-4434-9110-d9b79b3f76b5",
+      "isbn": "9798859174447",
+      "genres": [
+        "Romance",
+        "Sports"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-02",
+      "finishedReading": "2026-08-23",
+      "note": null,
+      "sortValue": 154
+    },
+    {
+      "status": "finished",
+      "title": "Sidetracked",
+      "author": "S.T. Abby",
+      "fableBookId": "89468c1f-1b3c-4e0f-b0ab-ee877dfac2a3",
+      "isbn": "bKGo937jpz",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-15",
+      "finishedReading": "2026-08-15",
+      "note": null,
+      "sortValue": 153
+    },
+    {
+      "status": "finished",
+      "title": "The Risk (Mindf*ck #1)",
+      "author": "S.T. Abby",
+      "fableBookId": "8dd3ca5c-0ddb-4ccf-88c5-a9635ee9f244",
+      "isbn": "zkt3EpqgR2",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-10",
+      "finishedReading": "2026-08-15",
+      "note": null,
+      "sortValue": 152
+    },
+    {
+      "status": "finished",
+      "title": "Once Written in Gilded Blood (Cruel Fates Duet, 2)",
+      "author": "K.M. Moronova",
+      "fableBookId": "16955cba-4708-468b-b4db-bf660970053e",
+      "isbn": "9781464279041",
+      "genres": [
+        "Fantasy"
+      ],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-10",
+      "finishedReading": "2026-08-15",
+      "note": null,
+      "sortValue": 151
+    },
+    {
+      "status": "finished",
+      "title": "Once Upon a Demon's Heart",
+      "author": "K.M. Moronova",
+      "fableBookId": "992f26f0-85d0-45a2-8918-3625a0a195c1",
+      "isbn": "9781963474107",
+      "genres": [
+        "Fantasy"
+      ],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-07-28",
+      "finishedReading": "2026-08-04",
+      "note": null,
+      "sortValue": 150
+    },
+    {
+      "status": "finished",
+      "title": "One Pucked Up Pack",
+      "author": "Sarah   Blue",
+      "fableBookId": "fc9bbc23-79f4-48b5-8188-329c101a3462",
+      "isbn": "4NMldF0pBS",
+      "genres": [
+        "Romance",
+        "Sports"
+      ],
+      "rating": 3.75,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-07-21",
+      "finishedReading": "2026-07-24",
+      "note": null,
+      "sortValue": 149
+    },
+    {
+      "status": "finished",
+      "title": "Devil Inside",
+      "author": "Clay McLeod Chapman",
+      "fableBookId": "cd44256f-6d26-42cd-abab-5d8a8c305ff3",
+      "isbn": "9780369775641",
+      "genres": [
+        "Dark Romance",
+        "Horror",
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": "2026-05-01",
+      "note": null,
+      "sortValue": 148
+    },
+    {
+      "status": "finished",
+      "title": "The Divorce",
+      "author": "Freida McFadden",
+      "fableBookId": "8cc98bc2-3671-417e-b0c4-8f74cb5735ea",
+      "isbn": "9781464249631",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-07-08",
+      "finishedReading": "2026-07-18",
+      "note": null,
+      "sortValue": 147
+    },
+    {
+      "status": "finished",
+      "title": "Twelve",
+      "author": "Jennifer Lynn Barnes",
+      "fableBookId": "ca62d21d-91ff-41e5-bd82-e859b37aab12",
+      "isbn": "9781368021302",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-07-09",
+      "finishedReading": "2026-07-09",
+      "note": null,
+      "sortValue": 146
+    },
+    {
+      "status": "finished",
+      "title": "Bad Blood",
+      "author": "Jennifer Lynn Barnes",
+      "fableBookId": "a0ab27e9-cb63-45d8-92ed-717e098db88f",
+      "isbn": "9781484758540",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-06-25",
+      "finishedReading": "2026-07-08",
+      "note": null,
+      "sortValue": 145
+    },
+    {
+      "status": "finished",
+      "title": "My Dreadful Darling (Hollow Graves Duet #1)",
+      "author": "H.D. Carlton",
+      "fableBookId": "995f6a7f-70a6-4ac7-a901-6c0c03f26abf",
+      "isbn": "B0F22R8CBG",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-05-15",
+      "finishedReading": "2026-07-01",
+      "note": null,
+      "sortValue": 144
+    },
+    {
+      "status": "finished",
+      "title": "All In",
+      "author": "Jennifer Lynn Barnes",
+      "fableBookId": "0f912caa-7b1f-421d-9351-7ac284f162e8",
+      "isbn": "9781484719589",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-06-23",
+      "finishedReading": "2026-06-25",
+      "note": null,
+      "sortValue": 143
+    },
+    {
+      "status": "finished",
+      "title": "Killer Instinct",
+      "author": "Jennifer Lynn Barnes",
+      "fableBookId": "1d0115de-32d8-4e49-ba05-a134cbb1a210",
+      "isbn": "9781423195122",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-06-11",
+      "finishedReading": "2026-06-20",
+      "note": null,
+      "sortValue": 142
+    },
+    {
+      "status": "finished",
+      "title": "Harvest Season",
+      "author": "Brynne Weaver",
+      "fableBookId": "3c3d9cef-1fca-4379-8799-9911e52458b1",
+      "isbn": "9781638932130",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-06-18",
+      "finishedReading": "2026-06-18",
+      "note": null,
+      "sortValue": 141
+    },
+    {
+      "status": "finished",
+      "title": "The Naturals",
+      "author": "Jennifer Lynn Barnes",
+      "fableBookId": "f76a89e5-2cee-45f2-a1a2-cd7accecc482",
+      "isbn": "9781423181187",
+      "genres": [
+        "Children's Fiction",
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-05-26",
+      "finishedReading": "2026-06-08",
+      "note": null,
+      "sortValue": 140
+    },
+    {
+      "status": "finished",
+      "title": "Final Girls",
+      "author": "Riley Sager",
+      "fableBookId": "f0668ca3-dc59-4127-8f22-c105b4d15ea2",
+      "isbn": "9781101985373",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-05-11",
+      "finishedReading": "2026-05-20",
+      "note": null,
+      "sortValue": 139
+    },
+    {
+      "status": "finished",
+      "title": "The Island",
+      "author": "Natasha Preston",
+      "fableBookId": "81a7faa9-a9be-470c-a507-d848f4fef4ed",
+      "isbn": "9780593481509",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-03-12",
+      "finishedReading": "2026-05-14",
+      "note": null,
+      "sortValue": 138
+    },
+    {
+      "status": "finished",
+      "title": "The Verdant Cage",
+      "author": "Jess Lourey",
+      "fableBookId": "5bd57dac-be02-4643-be9b-99befe030916",
+      "isbn": "9781682816462",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-05-05",
+      "finishedReading": "2026-05-11",
+      "note": null,
+      "sortValue": 137
+    },
+    {
+      "status": "finished",
+      "title": "The Dinner Party: A Pick Your Poison Adventure",
+      "author": "Freida McFadden",
+      "fableBookId": "66b3ebed-40f2-430f-9459-434cd00b4533",
+      "isbn": "9798254378488",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-04-13",
+      "finishedReading": "2026-05-10",
+      "note": null,
+      "sortValue": 136
+    },
+    {
+      "status": "finished",
+      "title": "Game On",
+      "author": "Navessa Allen",
+      "fableBookId": "fef8daae-0094-42d9-992e-9920f79c8a30",
+      "isbn": "9781638932277",
+      "genres": [
+        "Dark Romance",
+        "Romance"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-04-22",
+      "finishedReading": "2026-05-01",
+      "note": null,
+      "sortValue": 135
+    },
+    {
+      "status": "finished",
+      "title": "No Place Left to Hide",
+      "author": "Megan Lally",
+      "fableBookId": "2d9f4b99-66f7-452a-b828-d04acec81356",
+      "isbn": "9781728270166",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-04-16",
+      "finishedReading": "2026-04-21",
+      "note": null,
+      "sortValue": 134
+    },
+    {
+      "status": "finished",
+      "title": "Bound",
+      "author": "Ali Hazelwood",
+      "fableBookId": "5e83827c-6078-4d53-a322-6c4fe4181f44",
+      "isbn": "B0FSW2FL2M",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-03-19",
+      "finishedReading": "2026-04-16",
+      "note": null,
+      "sortValue": 133
+    },
+    {
+      "status": "finished",
+      "title": "Chaotic",
+      "author": "Shantel Tessier",
+      "fableBookId": "6de79e70-bc90-4d99-bd71-3a5892051a5a",
+      "isbn": "B0DTBXC1MN",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-01-31",
+      "finishedReading": "2026-04-12",
+      "note": null,
+      "sortValue": 132
+    },
+    {
+      "status": "finished",
+      "title": "Mate",
+      "author": "Ali Hazelwood",
+      "fableBookId": "5213384b-8893-4d1c-a259-f56e1c7781e5",
+      "isbn": "9780593955017",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-12-02",
+      "finishedReading": "2026-03-19",
+      "note": null,
+      "sortValue": 131
+    },
+    {
+      "status": "finished",
+      "title": "You're Next (Standard Edition)",
+      "author": "Tate James",
+      "fableBookId": "80353621-139e-4a44-b272-e83efc44cd8b",
+      "isbn": "9781464246906",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-02-17",
+      "finishedReading": "2026-02-21",
+      "note": null,
+      "sortValue": 130
+    },
+    {
+      "status": "finished",
+      "title": "Watch Your Back (Deluxe Edition) (Devil's Backbone, 2)",
+      "author": "Tate James",
+      "fableBookId": "c500735f-fbcf-4249-a73f-d5d15382205f",
+      "isbn": "9781464237089",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-02-10",
+      "finishedReading": "2026-02-17",
+      "note": null,
+      "sortValue": 129
+    },
+    {
+      "status": "finished",
+      "title": "Dear Reader Dear Reader (Deluxe Edition) (Devil's Backbone, #1)",
+      "author": "Tate James",
+      "fableBookId": "47df3395-c545-409d-9f3f-e3d07a34fa0f",
+      "isbn": "9781464237072",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-02-06",
+      "finishedReading": "2026-02-08",
+      "note": null,
+      "sortValue": 128
+    },
+    {
+      "status": "finished",
+      "title": "Shiny Happy People",
+      "author": "Clay McLeod Chapman",
+      "fableBookId": "37b04c27-963f-4c73-9c6e-b4c15a256179",
+      "isbn": "9780593904091",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-01-25",
+      "finishedReading": "2026-01-29",
+      "note": null,
+      "sortValue": 127
+    },
+    {
+      "status": "finished",
+      "title": "Valentine's Slay (The Improbable Meet-Cute: Second Chances)",
+      "author": "Navessa Allen",
+      "fableBookId": "4e573c2f-d81c-41bd-a778-a0c3edaf9c64",
+      "isbn": "9781662538513",
+      "genres": [
+        "Romance",
+        "Short Stories"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-01-20",
+      "finishedReading": "2026-01-23",
+      "note": null,
+      "sortValue": 126
+    },
+    {
+      "status": "finished",
+      "title": "Restitution (The Edge of Darkness: Book 3) (The Edge of Darkness Trilogy)",
+      "author": "Leigh Rivers",
+      "fableBookId": "01ad066f-9207-455f-b409-c315230948db",
+      "isbn": "9781739433055",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-01-08",
+      "finishedReading": "2026-01-20",
+      "note": null,
+      "sortValue": 125
+    },
+    {
+      "status": "finished",
+      "title": "Voracious (The Edge of Darkness, #2)",
+      "author": "Leigh Rivers",
+      "fableBookId": "11c985da-d3b4-4873-9b7d-a1792ed26b12",
+      "isbn": "kYS6C7FyLK",
+      "genres": [
+        "Dark Romance",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-12-29",
+      "finishedReading": "2026-01-07",
+      "note": null,
+      "sortValue": 123
+    },
+    {
+      "status": "finished",
+      "title": "Insatiable (The Edge of Darkness, #1)",
+      "author": "Leigh Rivers",
+      "fableBookId": "3b952020-76c7-4595-a77a-09ee528ae65f",
+      "isbn": "70Ij2ZAUX9",
+      "genres": [
+        "Dark Romance",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-12-24",
+      "finishedReading": "2025-12-28",
+      "note": null,
+      "sortValue": 122
+    },
+    {
+      "status": "finished",
+      "title": "Psychotic Obsession (The Edge of Darkness Trilogy)",
+      "author": "Leigh Rivers",
+      "fableBookId": "2c1facd7-75be-4931-aa67-b08783e19d36",
+      "isbn": "B0CV9DJQM6",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 4.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-12-02",
+      "finishedReading": "2025-12-20",
+      "note": null,
+      "sortValue": 121
+    },
+    {
+      "status": "finished",
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "fableBookId": "fcce25eb-6a0f-4728-9d5c-02ce27f99c44",
+      "isbn": "1538742578",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": 4.75,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-11-25",
+      "finishedReading": "2025-12-02",
+      "note": null,
+      "sortValue": 120
+    },
+    {
+      "status": "finished",
+      "title": "Tourist Season",
+      "author": "Brynne Weaver",
+      "fableBookId": "bf0a1783-9b8f-4030-841b-5475c6bb1a13",
+      "isbn": "9780349446530",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-09-30",
+      "finishedReading": "2025-11-24",
+      "note": null,
+      "sortValue": 119
+    },
+    {
+      "status": "finished",
+      "title": "Destined",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "cd9a59dd-3888-4d9a-b15d-36df61315e2d",
+      "isbn": "9781429985062",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-09-30",
+      "finishedReading": "2025-11-05",
+      "note": null,
+      "sortValue": 118
+    },
+    {
+      "status": "finished",
+      "title": "Bride",
+      "author": "Ali Hazelwood",
+      "fableBookId": "901e8a76-880d-46ed-94fc-b3ba8ca23ba0",
+      "isbn": "9780593550410",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-10-20",
+      "finishedReading": "2025-10-28",
+      "note": null,
+      "sortValue": 117
+    },
+    {
+      "status": "finished",
+      "title": "Forever Wicked",
+      "author": "Piper Lawson",
+      "fableBookId": "49865f4c-a8c0-4c3a-a4fe-11466d28e521",
+      "isbn": "9781386441304",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 116
+    },
+    {
+      "status": "finished",
+      "title": "Rivals",
+      "author": "Piper Lawson",
+      "fableBookId": "8c16ef34-4d69-4440-9f4e-78dc79333a25",
+      "isbn": "9781990764196",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 115
+    },
+    {
+      "status": "finished",
+      "title": "Neon Gods",
+      "author": "Katee Robert",
+      "fableBookId": "33a17531-0da2-422a-9b48-f0d5ea247ba4",
+      "isbn": "9781728231747",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 114
+    },
+    {
+      "status": "finished",
+      "title": "Electric Idol",
+      "author": "Katee Robert",
+      "fableBookId": "1c6f3a26-4a72-4345-949e-98aaeef5363f",
+      "isbn": "9781728231778",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 113
+    },
+    {
+      "status": "finished",
+      "title": "Good Girl (Wicked, #1)",
+      "author": "Piper Lawson",
+      "fableBookId": "ca4a6a29-f394-4aea-8a7e-1e6eb032b649",
+      "isbn": "56vD1BvUkb",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 112
+    },
+    {
+      "status": "finished",
+      "title": "Bad Girl",
+      "author": "Piper Lawson",
+      "fableBookId": "3d0b486c-139d-4c2d-bb04-5a6ba25dcb25",
+      "isbn": "9781386412410",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 111
+    },
+    {
+      "status": "finished",
+      "title": "Hitched",
+      "author": "Lauren Biel",
+      "fableBookId": "3de2ef07-2990-4432-a55b-0a7df6884b66",
+      "isbn": "yKa6mMCAiM",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 110
+    },
+    {
+      "status": "finished",
+      "title": "Awakened",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "d495c813-d285-4913-8855-6004187d754f",
+      "isbn": "9781429945103",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-09-27",
+      "finishedReading": "2025-09-30",
+      "note": null,
+      "sortValue": 109
+    },
+    {
+      "status": "finished",
+      "title": "Aftertaste",
+      "author": "Daria Lavelle",
+      "fableBookId": "bc89a6a8-e40c-477e-9218-5664c64e19a5",
+      "isbn": "9781668061619",
+      "genres": [
+        "Fantasy",
+        "Literary Fiction"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-09-25",
+      "finishedReading": "2025-09-25",
+      "note": null,
+      "sortValue": 108
+    },
+    {
+      "status": "finished",
+      "title": "Burned",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "a83b893b-9ac3-49ca-83e5-64dfa2ad0305",
+      "isbn": "9781429910958",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 107
+    },
+    {
+      "status": "finished",
+      "title": "Love & Other Killers",
+      "author": "Brynne Weaver",
+      "fableBookId": "c7647d2a-bdd7-4cd3-89da-5996722ba92c",
+      "isbn": "9781662535895",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 106
+    },
+    {
+      "status": "finished",
+      "title": "Tempted",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "6aae9f87-88cb-45a3-be2a-89bff7176309",
+      "isbn": "9781429983488",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 105
+    },
+    {
+      "status": "finished",
+      "title": "Hunted",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "fccf3623-cdd9-4c83-be0f-d1f83cef4164",
+      "isbn": "9781429961905",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 104
+    },
+    {
+      "status": "finished",
+      "title": "Untamed",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "12dcfab1-85f5-454d-b265-cc6000db4e85",
+      "isbn": "9781429931823",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 103
+    },
+    {
+      "status": "finished",
+      "title": "Chosen",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "a6422f66-50ae-4d27-b1a2-1cd443cf2dd3",
+      "isbn": "9781429974660",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 102
+    },
+    {
+      "status": "finished",
+      "title": "Betrayed",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "a0040a67-7d12-4a9c-b4ed-1323b882526e",
+      "isbn": "9781429915991",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 101
+    },
+    {
+      "status": "finished",
+      "title": "Marked",
+      "author": "P. C. Cast, Kristin Cast",
+      "fableBookId": "c628b8bf-b562-44cd-a415-4daa9bbeb765",
+      "isbn": "9781429953894",
+      "genres": [
+        "Fantasy",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 100
+    },
+    {
+      "status": "finished",
+      "title": "The Perfect Divorce",
+      "author": "Jeneva Rose",
+      "fableBookId": "b9be8d10-0e6f-4e22-9011-309a288ba404",
+      "isbn": "B0DGYVBN3X",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 99
+    },
+    {
+      "status": "finished",
+      "title": "Little liar",
+      "author": "Leigh Rivers",
+      "fableBookId": "ad9a3110-9196-44b6-9a28-51a8356ca678",
+      "isbn": "9789464406856",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 98
+    },
+    {
+      "status": "finished",
+      "title": "Little Stranger",
+      "author": "Leigh Rivers",
+      "fableBookId": "184e49d4-b81c-4440-ad89-f6bc444b2a2a",
+      "isbn": "9789464406825",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 97
+    },
+    {
+      "status": "finished",
+      "title": "Caught Up: Into Darkness Trilogy (Into Darkness Series)",
+      "author": "Navessa Allen",
+      "fableBookId": "d87da455-4cd0-4a1e-ab5b-81bba7875583",
+      "isbn": "9781638932253",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 96
+    },
+    {
+      "status": "finished",
+      "title": "A Ballad of Phantoms and Hope: A Paranormal Spinoff to The Fabric of our Souls",
+      "author": "K.M. Moronova",
+      "fableBookId": "0e5bbb6b-01ed-4d43-9d2a-f7b06d3b895d",
+      "isbn": "UGKrtkAk73",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 95
+    },
+    {
+      "status": "finished",
+      "title": "Madness",
+      "author": "Shantel Tessier",
+      "fableBookId": "cd3bc795-6c91-45c5-b5ee-2d625018f3df",
+      "isbn": "8h7nzfFpSJ",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 94
+    },
+    {
+      "status": "finished",
+      "title": "The Heartbreaker",
+      "author": "Sara Cate",
+      "fableBookId": "5ff752e3-de01-4ede-bc73-bb354794c72a",
+      "isbn": "9781956830309",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 93
+    },
+    {
+      "status": "finished",
+      "title": "It Starts with Us",
+      "author": "Colleen Hoover",
+      "fableBookId": "51754686-1c4d-4931-9375-fcbab324d969",
+      "isbn": "9781668001233",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 92
+    },
+    {
+      "status": "finished",
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "fableBookId": "4611b3f7-176a-4f3f-af49-87a16641ef6d",
+      "isbn": "9781501110375",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 91
+    },
+    {
+      "status": "finished",
+      "title": "Losers: Part II (Losers, #2)",
+      "author": "Harley Laroux",
+      "fableBookId": "7707de74-1071-4165-8e0e-4c2b8ae1b09c",
+      "isbn": "yjQTbjH2B2",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 90
+    },
+    {
+      "status": "finished",
+      "title": "Losers: Part I (Losers, #1)",
+      "author": "Harley Laroux",
+      "fableBookId": "3c200689-c125-4fbc-8360-b4c49a3e0cb7",
+      "isbn": "k3pwBpnpF1",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 89
+    },
+    {
+      "status": "finished",
+      "title": "You",
+      "author": "Caroline Kepnes",
+      "fableBookId": "398839fe-9a4f-4da2-b7ed-9db4e976a119",
+      "isbn": "9781476785615",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 88
+    },
+    {
+      "status": "finished",
+      "title": "Leather & Lark",
+      "author": "Brynne Weaver",
+      "fableBookId": "0a9a2433-b9cf-4d9e-8ec1-80ac9041ffa8",
+      "isbn": "9781638931805",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 87
+    },
+    {
+      "status": "finished",
+      "title": "The Dare",
+      "author": "Harley Laroux",
+      "fableBookId": "5d0db0b8-8341-4287-8d39-e98a0c347439",
+      "isbn": "pBpVvxOJWT",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 86
+    },
+    {
+      "status": "finished",
+      "title": "Pro Gamer's Aim (Guy in Real Life #1)",
+      "author": "Lena Song",
+      "fableBookId": "93e02155-72d4-4522-ab51-f9282abee0c7",
+      "isbn": "cOxvRBIkR5",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 85
+    },
+    {
+      "status": "finished",
+      "title": "The Home Wrecker (The Goode Brothers, #2)",
+      "author": "Sara Cate",
+      "fableBookId": "7686c9bc-306f-463d-8275-bd5695fb8d96",
+      "isbn": "UymkQswmrm",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 84
+    },
+    {
+      "status": "finished",
+      "title": "Haunted Love: A Dark Brother's Best Friend Standalone Romance",
+      "author": "Sheridan Anne",
+      "fableBookId": "dc92ec5c-dc09-46aa-9403-b38a4fef7539",
+      "isbn": "mpAmgmORJp",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 83
+    },
+    {
+      "status": "finished",
+      "title": "Where's Molly",
+      "author": "H.D. Carlton",
+      "fableBookId": "90785a80-ee7a-4bd1-a8c1-04de45744a13",
+      "isbn": "5zxPYFYYfz",
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 82
+    },
+    {
+      "status": "finished",
+      "title": "Butcher & Blackbird",
+      "author": "Brynne Weaver",
+      "fableBookId": "eec85ee3-e118-43e4-88b5-2804db915d1b",
+      "isbn": "9781638931744",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 81
+    },
+    {
+      "status": "finished",
+      "title": "Hunting Adeline",
+      "author": "H.D. Carlton",
+      "fableBookId": "e2597d4c-3c06-449f-af02-0919f3dcc887",
+      "isbn": "1957635010",
+      "genres": [
+        "Horror",
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 80
+    },
+    {
+      "status": "finished",
+      "title": "Satan's Affair",
+      "author": "H.D. Carlton",
+      "fableBookId": "5a1c3d9a-6c29-449d-8b15-0a31169a3c05",
+      "isbn": "9781957635064",
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 79
+    },
+    {
+      "status": "finished",
+      "title": "The Anti-Hero (The Goode Brothers, #1)",
+      "author": "Sara Cate",
+      "fableBookId": "8b198c98-08b3-4e1f-82de-43c4090f21a2",
+      "isbn": "Poc0afcsza",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 78
+    },
+    {
+      "status": "finished",
+      "title": "Gothikana",
+      "author": "RuNyx",
+      "fableBookId": "6a76dd6c-8951-4e3f-a6cb-d5ccf6d4aa10",
+      "isbn": "9781250334213",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 77
+    },
+    {
+      "status": "finished",
+      "title": "One By One",
+      "author": "Freida McFadden",
+      "fableBookId": "c386f2b8-3b17-4a86-8bf7-0321af1fd6b8",
+      "isbn": "iTY27eAkHI",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 76
+    },
+    {
+      "status": "finished",
+      "title": "Satanic Shadows",
+      "author": "Leigh Rivers",
+      "fableBookId": "3e25e46f-e90d-494d-927b-2b81e3296a2d",
+      "isbn": "onjoT5buFZ",
+      "genres": [],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 75
+    },
+    {
+      "status": "finished",
+      "title": "The Tenant",
+      "author": "Freida McFadden",
+      "fableBookId": "62f84122-64dd-4d38-914b-6c6d5324c867",
+      "isbn": "9781420523362",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 74
+    },
+    {
+      "status": "finished",
+      "title": "Secrets of Alkrose (Alkrose Academy, #2)",
+      "author": "K.M. Moronova",
+      "fableBookId": "38524b91-90f9-4dac-9bc3-b15b2581f6f3",
+      "isbn": "t7SjA1JkiR",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 73
+    },
+    {
+      "status": "finished",
+      "title": "Of Deathless Shadows",
+      "author": "K.M. Moronova",
+      "fableBookId": "963720bf-2220-4ebc-adbe-896499128aa3",
+      "isbn": "39iT3YGEzb",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 72
+    },
+    {
+      "status": "finished",
+      "title": "Ward D",
+      "author": "Freida McFadden",
+      "fableBookId": "f72f15f3-2f83-47c7-b7b2-d3beee0c4268",
+      "isbn": "wgSkX6FyLQ",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 71
+    },
+    {
+      "status": "finished",
+      "title": "Scythe & Sparrow",
+      "author": "Brynne Weaver",
+      "fableBookId": "fccc2656-1a75-4faf-a0a8-7768f5e752f3",
+      "isbn": "9781638931829",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 70
+    },
+    {
+      "status": "finished",
+      "title": "The Boyfriend",
+      "author": "Freida McFadden",
+      "fableBookId": "fdeae56b-1138-42a3-925d-636f40bde0fb",
+      "isbn": "9781464231681",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 69
+    },
+    {
+      "status": "finished",
+      "title": "Lights Out",
+      "author": "Navessa Allen",
+      "fableBookId": "8fbf3b3f-6060-433e-96b9-a1e7a141015b",
+      "isbn": "9781638932246",
+      "genres": [
+        "Dark Romance",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 68
+    },
+    {
+      "status": "finished",
+      "title": "The Perfect Marriage",
+      "author": "Jeneva Rose",
+      "fableBookId": "603b46ea-b9ee-4720-be3e-5761af35384c",
+      "isbn": "9781913419653",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 67
+    },
+    {
+      "status": "finished",
+      "title": "Punk 57",
+      "author": "Penelope Douglas",
+      "fableBookId": "5681e4b1-a792-4351-b88a-2abe694aa674",
+      "isbn": "n7CfJ2lJAq",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 66
+    },
+    {
+      "status": "finished",
+      "title": "Birthday Girl",
+      "author": "Penelope Douglas",
+      "fableBookId": "555f0b81-0580-4f5c-899c-34c9d40cfecf",
+      "isbn": "ZYi120O327",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 65
+    },
+    {
+      "status": "finished",
+      "title": "Sharp Objects",
+      "author": "Gillian Flynn",
+      "fableBookId": "b279e5e0-ce73-477c-8581-27a5b4b54e79",
+      "isbn": "9780307351487",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 64
+    },
+    {
+      "status": "finished",
+      "title": "Such Pretty Flowers",
+      "author": "K. L. Cerra",
+      "fableBookId": "35ce7bd4-7861-4562-a4ca-ef03a93f2648",
+      "isbn": "9780593500262",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 63
+    },
+    {
+      "status": "finished",
+      "title": "A Good Girl's Guide to Murder",
+      "author": "Holly Jackson",
+      "fableBookId": "116e53ca-e999-41b5-831c-4889052a07fc",
+      "isbn": "9781984896384",
+      "genres": [
+        "Thrillers",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 62
+    },
+    {
+      "status": "finished",
+      "title": "Where He Can't Find You",
+      "author": "Darcy Coates",
+      "fableBookId": "75433764-d604-4275-a158-e4fefbc2dfec",
+      "isbn": "9798223246626",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 61
+    },
+    {
+      "status": "finished",
+      "title": "The Teacher",
+      "author": "Freida McFadden",
+      "fableBookId": "4d09d1df-4827-4459-bf82-5c033a054010",
+      "isbn": "9781728296210",
+      "genres": [
+        "Fiction",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 60
+    },
+    {
+      "status": "finished",
+      "title": "Once Upon a Demon's Heart",
+      "author": "K. M. Moronova",
+      "fableBookId": "bab74840-6a32-404b-beed-88488ee6c747",
+      "isbn": "9sgGieHXLr",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": "2025-07-30",
+      "note": null,
+      "sortValue": 2
+    },
+    {
+      "status": "finished",
+      "title": "The Fabric of Our Souls",
+      "author": "K. M. Moronova",
+      "fableBookId": "352d90ab-fb91-48ac-a602-706162ef94e6",
+      "isbn": "9781538771730",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": "2024-06-05",
+      "note": null,
+      "sortValue": 3
+    },
+    {
+      "status": "finished",
+      "title": "Carnage: A Dark Revenge Romance",
+      "author": "Shantel Tessier, Shantel Tessier",
+      "fableBookId": "e621dfba-8104-49a6-bfdf-0e51032dbb09",
+      "isbn": "9798865710806",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 7
+    },
+    {
+      "status": "finished",
+      "title": "Never Lie",
+      "author": "Freida McFadden",
+      "fableBookId": "821bac88-b3ff-4c7f-8648-788d7f6d6361",
+      "isbn": "Lk4F7zVTkH",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 8
+    },
+    {
+      "status": "finished",
+      "title": "Starling House",
+      "author": "Alix E. Harrow",
+      "fableBookId": "83f5c0d2-5b4c-478f-9e7a-666c6b2c1bf9",
+      "isbn": "9781250799074",
+      "genres": [
+        "Fantasy"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Haunting Adeline",
+      "author": "H.D. Carlton",
+      "fableBookId": "1380a31f-f349-4729-abee-28f7a65ed14d",
+      "isbn": "DyxTNQgnQD",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 11
+    },
+    {
+      "status": "finished",
+      "title": "Sabotage",
+      "author": "Shantel Tessier",
+      "fableBookId": "3a8e3243-9a6a-4566-b1bd-6f03c3aba2cd",
+      "isbn": "uILVCrSUo9",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 12
+    },
+    {
+      "status": "finished",
+      "title": "The Sacrifice",
+      "author": "Shantel Tessier",
+      "fableBookId": "376fc25a-d675-4470-ac5f-867a7735fe23",
+      "isbn": "1VjvmjoktP",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": "2024-01-17",
+      "note": null,
+      "sortValue": 13
+    },
+    {
+      "status": "finished",
+      "title": "All In",
+      "author": "Sara Cate",
+      "fableBookId": "7557262b-ccf7-4f43-974c-0611cfea8fec",
+      "isbn": "ehTtADSZtU",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2025-01-01",
+      "note": null,
+      "sortValue": 14
+    },
+    {
+      "status": "finished",
+      "title": "Reserved (South Bay Billionaires #2)",
+      "author": "Ashley  Jacobs",
+      "fableBookId": "6410fb3c-e2be-42cb-89ca-1e3d4d20e69b",
+      "isbn": "9781962441025",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 15
+    },
+    {
+      "status": "finished",
+      "title": "Madame",
+      "author": "Sara Cate",
+      "fableBookId": "0024d521-a475-4925-ba01-e9f9a4449b44",
+      "isbn": "i8rZO6MxpE",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 16
+    },
+    {
+      "status": "finished",
+      "title": "'Salem's Lot",
+      "author": "Stephen King, Joe Hill",
+      "fableBookId": "6c580800-0772-4b9d-a266-82b54cb1834d",
+      "isbn": "9780385528221",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 25
+    },
+    {
+      "status": "finished",
+      "title": "Ghost Eaters",
+      "author": "Clay McLeod Chapman",
+      "fableBookId": "9423519f-3b35-4e52-b71a-dd63ab228229",
+      "isbn": "9781683692188",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 26
+    },
+    {
+      "status": "finished",
+      "title": "Maeve Fly",
+      "author": "CJ Leede",
+      "fableBookId": "972407d2-da2b-45c5-b94a-178b79f6ae67",
+      "isbn": "9781250857873",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 29
+    },
+    {
+      "status": "finished",
+      "title": "My Lovely Wife",
+      "author": "Samantha Downing",
+      "fableBookId": "476c238f-41b5-4749-984f-7378933c0a12",
+      "isbn": "9780451491749",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 41
+    },
+    {
+      "status": "finished",
+      "title": "My Heart Is a Chainsaw",
+      "author": "Stephen Graham Jones",
+      "fableBookId": "b9dcda0c-b802-425e-91e0-36ab4ad156cb",
+      "isbn": "9781982137656",
+      "genres": [
+        "Horror",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 42
+    },
+    {
+      "status": "finished",
+      "title": "The Sinner",
+      "author": "Shantel Tessier",
+      "fableBookId": "db875a6a-f265-442b-93d8-2b111e296d77",
+      "isbn": "1urCaKNaMB",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 44
+    },
+    {
+      "status": "finished",
+      "title": "The Ritual",
+      "author": "Shantel Tessier",
+      "fableBookId": "1f3379c0-a566-41a6-9e83-82cf3755be09",
+      "isbn": "5Vo25Mu4Qj",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 45
+    },
+    {
+      "status": "finished",
+      "title": "Give Me More (Salacious Players Club, #3)",
+      "author": "Sara Cate",
+      "fableBookId": "1f57fb13-6465-4771-9a70-d4c0a61f7075",
+      "isbn": "2FuMQxSg7B",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 54
+    },
+    {
+      "status": "finished",
+      "title": "No Place to Hide",
+      "author": "Harper Ashley",
+      "fableBookId": "15512544-3a04-4a20-af07-bfec9eaffc22",
+      "isbn": "C37MSv6XeE",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 55
+    },
+    {
+      "status": "finished",
+      "title": "Highest Bidder",
+      "author": "Sara Cate",
+      "fableBookId": "fc4bdf6e-c8d9-49e3-b76a-b5dbd58d3762",
+      "isbn": "1HnHMUq8CQ",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 56
+    },
+    {
+      "status": "finished",
+      "title": "Praise",
+      "author": "Sara Cate",
+      "fableBookId": "ba6910f5-ae15-40d8-8e5c-8b01e5b95328",
+      "isbn": "9781956830149",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 57
+    },
+    {
+      "status": "finished",
+      "title": "Mercy (Salacious Players Club, #4)",
+      "author": "Sara Cate",
+      "fableBookId": "50d09ba9-047c-47d6-9f7e-09282fc343fd",
+      "isbn": "b2boTuYu1F",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 58
+    },
+    {
+      "status": "finished",
+      "title": "Eyes on Me (Salacious Players' Club, #2)",
+      "author": "Sara Cate",
+      "fableBookId": "c3c46e49-6bd2-48e9-a911-a00af13de52c",
+      "isbn": "9781728282145",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2024-01-01",
+      "finishedReading": "2024-01-01",
+      "note": null,
+      "sortValue": 59
+    },
+    {
+      "status": "did_not_finish",
+      "title": "Haunting the Hunter: A dark romance psychological thriller where you are the obsession.",
+      "author": "Hanna Harp",
+      "fableBookId": "40e6bb28-1763-4c89-b72b-1b0c9d0024e4",
+      "isbn": "yQieIWbu1k",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2025-10-28",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 2
+    },
+    {
+      "status": "did_not_finish",
+      "title": "Masters of Death",
+      "author": "Olivie Blake",
+      "fableBookId": "daed3376-6735-44fb-bafc-ff09661dbede",
+      "isbn": "9781250884886",
+      "genres": [
+        "Fantasy",
+        "LGBTQ+"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 1
+    }
+  ]
+}
