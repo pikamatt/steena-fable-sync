@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T15:54:17.545664+00:00",
+  "lastUpdated": "2026-09-05T14:44:41.197945+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,7 +13,7 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 3,
+      "count": 4,
       "privacy": "everyone"
     },
     "finished": {
@@ -2222,6 +2222,25 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 53
+    },
+    {
+      "status": "current_reading",
+      "title": "Puck Around and Find Out",
+      "author": "Sarah Blue",
+      "fableBookId": "f00bdafc-0b08-494b-9bf6-8cdc07950966",
+      "isbn": "9781962721035",
+      "genres": [
+        "Romance",
+        "Sports"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-05",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 16
     },
     {
       "status": "current_reading",
