@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T17:25:14.247806+00:00",
+  "lastUpdated": "2026-09-08T16:10:11.672463+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -8,7 +8,7 @@
   "lists": {
     "want_to_read": {
       "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
-      "count": 118,
+      "count": 123,
       "privacy": "everyone"
     },
     "current_reading": {
@@ -28,6 +28,101 @@
     }
   },
   "books": [
+    {
+      "status": "want_to_read",
+      "title": "Us Deadly Few",
+      "author": "Alexis Patton",
+      "fableBookId": "be1cc78f-61cf-491c-a3fe-2df7bea676ed",
+      "isbn": "9798988117834",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 159
+    },
+    {
+      "status": "want_to_read",
+      "title": "Us Dark Few (Us Dark Few #1)",
+      "author": "Alexis Patton",
+      "fableBookId": "0659bbce-8dcf-4fad-892b-7c938505f1a4",
+      "isbn": "J1w1AY7PQC",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 158
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Lunatics",
+      "author": "Navessa Allen",
+      "fableBookId": "98886021-de54-40d3-8bb2-1093a78d9efd",
+      "isbn": "9781538784303",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 157
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Daddy's Girl (Salacious Legacy, 3)",
+      "author": "Sara Cate",
+      "fableBookId": "e3b72fa1-ac8d-4706-a98c-d6e0f5326e1f",
+      "isbn": "9781464293276",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 156
+    },
+    {
+      "status": "want_to_read",
+      "title": "Divergent",
+      "author": "Veronica Roth, Nicolas Delort",
+      "fableBookId": "e096911c-8d58-4962-aa13-10268c91cdd1",
+      "isbn": "9780062077011",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 155
+    },
     {
       "status": "want_to_read",
       "title": "Acquired Taste",
@@ -4132,6 +4227,7 @@
       "fableBookId": "352d90ab-fb91-48ac-a602-706162ef94e6",
       "isbn": "9781538771730",
       "genres": [
+        "Dark Romance",
         "Romance"
       ],
       "rating": 5.0,
