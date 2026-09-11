@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T15:57:35.442223+00:00",
+  "lastUpdated": "2026-09-11T16:00:56.269613+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,12 +13,12 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 4,
+      "count": 3,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 121,
+      "count": 122,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -2320,25 +2320,6 @@
     },
     {
       "status": "current_reading",
-      "title": "Puck Around and Find Out",
-      "author": "Sarah Blue",
-      "fableBookId": "f00bdafc-0b08-494b-9bf6-8cdc07950966",
-      "isbn": "9781962721035",
-      "genres": [
-        "Romance",
-        "Sports"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": "2026-09-05",
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 16
-    },
-    {
-      "status": "current_reading",
       "title": "All the Lies (Mindf*ck, #4)",
       "author": "S.T. Abby",
       "fableBookId": "921c7deb-92d2-4a63-9e04-eb66588a0919",
@@ -2390,6 +2371,25 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Puck Around and Find Out",
+      "author": "Sarah Blue",
+      "fableBookId": "f00bdafc-0b08-494b-9bf6-8cdc07950966",
+      "isbn": "9781962721035",
+      "genres": [
+        "Romance",
+        "Sports"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-05",
+      "finishedReading": "2026-09-10",
+      "note": null,
+      "sortValue": 158
     },
     {
       "status": "finished",
