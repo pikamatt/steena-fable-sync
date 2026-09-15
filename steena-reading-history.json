@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T17:51:25.675898+00:00",
+  "lastUpdated": "2026-09-15T16:27:35.164936+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -28,6 +28,25 @@
     }
   },
   "books": [
+    {
+      "status": "want_to_read",
+      "title": "Boys of Brayshaw High",
+      "author": "Meagan Brandy",
+      "fableBookId": "ac646795-4b17-4814-8959-c16c586dc1d9",
+      "isbn": "9798425232526",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-07-29",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 160
+    },
     {
       "status": "want_to_read",
       "title": "Us Deadly Few",
@@ -1073,24 +1092,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 101
-    },
-    {
-      "status": "want_to_read",
-      "title": "Kiss of the Basilisk",
-      "author": "Lindsay Straube",
-      "fableBookId": "f0be4906-8a5f-4888-b122-daf6d9bee57f",
-      "isbn": "9781464247583",
-      "genres": [
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 100
     },
     {
       "status": "want_to_read",
@@ -2320,6 +2321,24 @@
     },
     {
       "status": "current_reading",
+      "title": "Kiss of the Basilisk",
+      "author": "Lindsay Straube",
+      "fableBookId": "f0be4906-8a5f-4888-b122-daf6d9bee57f",
+      "isbn": "9781464247583",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-14",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 16
+    },
+    {
+      "status": "current_reading",
       "title": "All the Lies (Mindf*ck, #4)",
       "author": "S.T. Abby",
       "fableBookId": "921c7deb-92d2-4a63-9e04-eb66588a0919",
@@ -2336,25 +2355,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 15
-    },
-    {
-      "status": "current_reading",
-      "title": "Boys of Brayshaw High",
-      "author": "Meagan Brandy",
-      "fableBookId": "ac646795-4b17-4814-8959-c16c586dc1d9",
-      "isbn": "9798425232526",
-      "genres": [
-        "Romance",
-        "Young Adult"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": "2026-07-29",
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 11
     },
     {
       "status": "current_reading",
