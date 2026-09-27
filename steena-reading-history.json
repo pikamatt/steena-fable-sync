@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T15:56:54.062630+00:00",
+  "lastUpdated": "2026-09-27T16:33:20.572600+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,12 +13,12 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 3,
+      "count": 2,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 122,
+      "count": 123,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -2321,24 +2321,6 @@
     },
     {
       "status": "current_reading",
-      "title": "Kiss of the Basilisk",
-      "author": "Lindsay Straube",
-      "fableBookId": "f0be4906-8a5f-4888-b122-daf6d9bee57f",
-      "isbn": "9781464247583",
-      "genres": [
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": "2026-09-14",
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 16
-    },
-    {
-      "status": "current_reading",
       "title": "All the Lies (Mindf*ck, #4)",
       "author": "S.T. Abby",
       "fableBookId": "921c7deb-92d2-4a63-9e04-eb66588a0919",
@@ -2371,6 +2353,24 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Kiss of the Basilisk",
+      "author": "Lindsay Straube",
+      "fableBookId": "f0be4906-8a5f-4888-b122-daf6d9bee57f",
+      "isbn": "9781464247583",
+      "genres": [
+        "Romance"
+      ],
+      "rating": 5.0,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-14",
+      "finishedReading": "2026-09-26",
+      "note": null,
+      "sortValue": 159
     },
     {
       "status": "finished",
@@ -3076,7 +3076,7 @@
         "Mystery",
         "Thrillers"
       ],
-      "rating": 4.75,
+      "rating": null,
       "favorite": false,
       "hasReview": false,
       "reviewLink": null,
