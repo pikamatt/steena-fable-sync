@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T16:33:20.572600+00:00",
+  "lastUpdated": "2026-09-28T19:21:26.669859+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -18,7 +18,7 @@
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 123,
+      "count": 124,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -2321,22 +2321,21 @@
     },
     {
       "status": "current_reading",
-      "title": "All the Lies (Mindf*ck, #4)",
-      "author": "S.T. Abby",
-      "fableBookId": "921c7deb-92d2-4a63-9e04-eb66588a0919",
-      "isbn": "1UkJ6s507l",
+      "title": "Love Antidote",
+      "author": "Brynne Weaver",
+      "fableBookId": "2d2de78f-169c-447d-b40d-8566f358e647",
+      "isbn": "2jP6B8jjWR",
       "genres": [
-        "Romance",
-        "Thrillers"
+        "Romance"
       ],
       "rating": null,
       "favorite": false,
       "hasReview": false,
       "reviewLink": null,
-      "startedReading": "2026-08-29",
+      "startedReading": "2026-09-28",
       "finishedReading": null,
       "note": null,
-      "sortValue": 15
+      "sortValue": 16
     },
     {
       "status": "current_reading",
@@ -2353,6 +2352,25 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "All the Lies (Mindf*ck, #4)",
+      "author": "S.T. Abby",
+      "fableBookId": "921c7deb-92d2-4a63-9e04-eb66588a0919",
+      "isbn": "1UkJ6s507l",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-08-29",
+      "finishedReading": "2026-09-28",
+      "note": null,
+      "sortValue": 160
     },
     {
       "status": "finished",
