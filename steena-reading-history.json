@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T19:21:26.669859+00:00",
+  "lastUpdated": "2026-09-29T17:47:25.408762+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,12 +13,12 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 2,
+      "count": 1,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 124,
+      "count": 125,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -2321,24 +2321,6 @@
     },
     {
       "status": "current_reading",
-      "title": "Love Antidote",
-      "author": "Brynne Weaver",
-      "fableBookId": "2d2de78f-169c-447d-b40d-8566f358e647",
-      "isbn": "2jP6B8jjWR",
-      "genres": [
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": "2026-09-28",
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 16
-    },
-    {
-      "status": "current_reading",
       "title": "Bodies of Work",
       "author": "Clay McLeod Chapman",
       "fableBookId": "f1a44516-5f08-4165-82b6-6f461c779d08",
@@ -2352,6 +2334,24 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Love Antidote",
+      "author": "Brynne Weaver",
+      "fableBookId": "2d2de78f-169c-447d-b40d-8566f358e647",
+      "isbn": "2jP6B8jjWR",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-28",
+      "finishedReading": "2026-09-29",
+      "note": null,
+      "sortValue": 161
     },
     {
       "status": "finished",
@@ -3544,7 +3544,7 @@
       "favorite": false,
       "hasReview": false,
       "reviewLink": null,
-      "startedReading": "2025-01-01",
+      "startedReading": null,
       "finishedReading": "2025-01-01",
       "note": null,
       "sortValue": 96
