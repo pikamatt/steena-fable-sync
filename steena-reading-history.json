@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T17:47:25.408762+00:00",
+  "lastUpdated": "2026-09-30T17:43:10.792366+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -8,17 +8,17 @@
   "lists": {
     "want_to_read": {
       "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
-      "count": 123,
+      "count": 122,
       "privacy": "everyone"
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 1,
+      "count": 2,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 125,
+      "count": 126,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -706,24 +706,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 123
-    },
-    {
-      "status": "want_to_read",
-      "title": "Scream For Us",
-      "author": "Molly Doyle",
-      "fableBookId": "4ae86466-9a15-4b73-8a19-d3466b45eebd",
-      "isbn": "n86K6hMsJB",
-      "genres": [
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 122
     },
     {
       "status": "want_to_read",
@@ -2321,6 +2303,24 @@
     },
     {
       "status": "current_reading",
+      "title": "Scream For Us",
+      "author": "Molly Doyle",
+      "fableBookId": "4ae86466-9a15-4b73-8a19-d3466b45eebd",
+      "isbn": "n86K6hMsJB",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-30",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 10
+    },
+    {
+      "status": "current_reading",
       "title": "Bodies of Work",
       "author": "Clay McLeod Chapman",
       "fableBookId": "f1a44516-5f08-4165-82b6-6f461c779d08",
@@ -2334,6 +2334,24 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Mayhem Carnival: A one night Halloween novella",
+      "author": "Scarlett Swan",
+      "fableBookId": "12088797-583f-457e-b134-705cffc885c6",
+      "isbn": "f6ejoJmRF8",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-30",
+      "finishedReading": "2026-09-30",
+      "note": null,
+      "sortValue": 162
     },
     {
       "status": "finished",
