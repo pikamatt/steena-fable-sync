@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T17:43:10.792366+00:00",
+  "lastUpdated": "2026-10-01T18:08:56.904085+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,12 +13,12 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 2,
+      "count": 4,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 126,
+      "count": 127,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -2303,12 +2303,49 @@
     },
     {
       "status": "current_reading",
-      "title": "Scream For Us",
-      "author": "Molly Doyle",
-      "fableBookId": "4ae86466-9a15-4b73-8a19-d3466b45eebd",
-      "isbn": "n86K6hMsJB",
+      "title": "No Way Out",
+      "author": "Santana Knox",
+      "fableBookId": "38588e33-8fa6-42fc-884b-8d8ab3a1613c",
+      "isbn": "qDFuz1byQu",
       "genres": [
-        "Romance"
+        "Horror"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-10-01",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 13
+    },
+    {
+      "status": "current_reading",
+      "title": "21 Days of Fear",
+      "author": "Hervé Commère",
+      "fableBookId": "f385f2b8-4323-43ca-8c59-c7ec7e69dc84",
+      "isbn": "9798347119622",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-10-01",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 12
+    },
+    {
+      "status": "current_reading",
+      "title": "Paint It All Red (Mindf*ck, #5)",
+      "author": "S.T. Abby",
+      "fableBookId": "d1fe2bce-1d32-4a01-b0ac-9c7894d56a79",
+      "isbn": "eYzc6z3BYP",
+      "genres": [
+        "Romance",
+        "Thrillers"
       ],
       "rating": null,
       "favorite": false,
@@ -2317,7 +2354,7 @@
       "startedReading": "2026-09-30",
       "finishedReading": null,
       "note": null,
-      "sortValue": 10
+      "sortValue": 11
     },
     {
       "status": "current_reading",
@@ -2334,6 +2371,24 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Scream For Us",
+      "author": "Molly Doyle",
+      "fableBookId": "4ae86466-9a15-4b73-8a19-d3466b45eebd",
+      "isbn": "n86K6hMsJB",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-30",
+      "finishedReading": "2026-09-30",
+      "note": null,
+      "sortValue": 163
     },
     {
       "status": "finished",
