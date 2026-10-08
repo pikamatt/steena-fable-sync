@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T18:34:04.637189+00:00",
+  "lastUpdated": "2026-10-08T18:33:06.847660+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,7 +13,7 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 3,
+      "count": 4,
       "privacy": "everyone"
     },
     "finished": {
@@ -2318,6 +2318,25 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 53
+    },
+    {
+      "status": "current_reading",
+      "title": "Between Two Kings (Split or Swallow, #2)",
+      "author": "Lindsay Straube",
+      "fableBookId": "4c56d5d4-2260-4716-ba17-1a7c1b25caed",
+      "isbn": "9781464247606",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-10-07",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 13
     },
     {
       "status": "current_reading",
