@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T18:33:06.847660+00:00",
+  "lastUpdated": "2026-10-09T18:04:26.300119+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -8,7 +8,7 @@
   "lists": {
     "want_to_read": {
       "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
-      "count": 123,
+      "count": 127,
       "privacy": "everyone"
     },
     "current_reading": {
@@ -28,6 +28,81 @@
     }
   },
   "books": [
+    {
+      "status": "want_to_read",
+      "title": "The Witch",
+      "author": "Freida McFadden",
+      "fableBookId": "1e766dcd-dae1-4e9b-b6d2-5429ef5b2e4f",
+      "isbn": "9781464249648",
+      "genres": [
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 165
+    },
+    {
+      "status": "want_to_read",
+      "title": "Enchantra (Wicked Games, #2)",
+      "author": "Kaylie Smith",
+      "fableBookId": "407ff777-a723-4c86-84ea-a1f09ddbd35d",
+      "isbn": "9781538770801",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 164
+    },
+    {
+      "status": "want_to_read",
+      "title": "Phantasma",
+      "author": "Kaylie Smith",
+      "fableBookId": "40d7d115-9163-423a-a185-06684d7b7773",
+      "isbn": "9781538769256",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 163
+    },
+    {
+      "status": "want_to_read",
+      "title": "Kneel Before Me",
+      "author": "Lindsay Straube",
+      "fableBookId": "ed6e00bd-ee8b-443b-82d0-fbb219d03d08",
+      "isbn": "9781464247750",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 162
+    },
     {
       "status": "want_to_read",
       "title": "No Way Out",
