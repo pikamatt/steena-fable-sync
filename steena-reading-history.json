@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T17:03:29.111021+00:00",
+  "lastUpdated": "2026-10-11T17:26:55.857515+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -28,6 +28,24 @@
     }
   },
   "books": [
+    {
+      "status": "want_to_read",
+      "title": "Pen Pal",
+      "author": "J.T. Geissinger",
+      "fableBookId": "e2d9a11a-032a-45c6-9dd9-13fde73f1b52",
+      "isbn": "9781250346698",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 93
+    },
     {
       "status": "want_to_read",
       "title": "The Witch",
@@ -1279,22 +1297,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 94
-    },
-    {
-      "status": "want_to_read",
-      "title": "Pen Pal",
-      "author": "J.T. Geissinger",
-      "fableBookId": "58a77e97-20f5-45d7-9951-25990625233d",
-      "isbn": "B0CKLQ12NB",
-      "genres": [],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 93
     },
     {
       "status": "want_to_read",
@@ -3994,7 +3996,7 @@
       "title": "Hunting Adeline",
       "author": "H.D. Carlton",
       "fableBookId": "e2597d4c-3c06-449f-af02-0919f3dcc887",
-      "isbn": "1957635010",
+      "isbn": "9781957635019",
       "genres": [
         "Horror",
         "Romance",
