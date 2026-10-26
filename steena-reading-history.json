@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T15:40:56.625986+00:00",
+  "lastUpdated": "2026-10-26T18:21:53.929992+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -8,17 +8,17 @@
   "lists": {
     "want_to_read": {
       "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
-      "count": 127,
+      "count": 126,
       "privacy": "everyone"
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 4,
+      "count": 3,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 127,
+      "count": 128,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -779,27 +779,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 125
-    },
-    {
-      "status": "want_to_read",
-      "title": "The Mindf*ck Series",
-      "author": "S.T. Abby",
-      "fableBookId": "b345a03d-0541-4f3f-8c2e-d39891f0dd42",
-      "isbn": "9781091074699",
-      "genres": [
-        "Mystery",
-        "Romance",
-        "Short Stories",
-        "Thrillers"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 124
     },
     {
       "status": "want_to_read",
@@ -2400,25 +2379,6 @@
     },
     {
       "status": "current_reading",
-      "title": "Between Two Kings (Split or Swallow, #2)",
-      "author": "Lindsay Straube",
-      "fableBookId": "4c56d5d4-2260-4716-ba17-1a7c1b25caed",
-      "isbn": "9781464247606",
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": "2026-10-07",
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 13
-    },
-    {
-      "status": "current_reading",
       "title": "21 Days of Fear",
       "author": "Hervé Commère",
       "fableBookId": "f385f2b8-4323-43ca-8c59-c7ec7e69dc84",
@@ -2469,6 +2429,25 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Between Two Kings (Split or Swallow, #2)",
+      "author": "Lindsay Straube",
+      "fableBookId": "4c56d5d4-2260-4716-ba17-1a7c1b25caed",
+      "isbn": "9781464247606",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-10-07",
+      "finishedReading": "2026-10-25",
+      "note": null,
+      "sortValue": 164
     },
     {
       "status": "finished",
