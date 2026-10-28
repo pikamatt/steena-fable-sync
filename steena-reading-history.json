@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T17:36:43.472449+00:00",
+  "lastUpdated": "2026-10-28T17:58:42.253019+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -8,7 +8,7 @@
   "lists": {
     "want_to_read": {
       "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
-      "count": 126,
+      "count": 125,
       "privacy": "everyone"
     },
     "current_reading": {
@@ -18,7 +18,7 @@
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 128,
+      "count": 129,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -45,26 +45,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 93
-    },
-    {
-      "status": "want_to_read",
-      "title": "The Witch",
-      "author": "Freida McFadden",
-      "fableBookId": "1e766dcd-dae1-4e9b-b6d2-5429ef5b2e4f",
-      "isbn": "9781464249648",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thrillers"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 165
     },
     {
       "status": "want_to_read",
@@ -2272,22 +2252,6 @@
     },
     {
       "status": "want_to_read",
-      "title": "The Shadows: Book One of The Blackwell Series",
-      "author": "G.L. Strong",
-      "fableBookId": "3680ed6a-0568-40d4-8d79-a36dcf0c81de",
-      "isbn": "soKB7cGvgE",
-      "genres": [],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 47
-    },
-    {
-      "status": "want_to_read",
       "title": "The Only Survivors",
       "author": "Megan Miranda",
       "fableBookId": "9ed410e1-95c7-41e6-8f20-e75763759434",
@@ -2303,6 +2267,22 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 48
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Shadows: Book One of The Blackwell Series",
+      "author": "G.L. Strong",
+      "fableBookId": "3680ed6a-0568-40d4-8d79-a36dcf0c81de",
+      "isbn": "soKB7cGvgE",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 47
     },
     {
       "status": "want_to_read",
@@ -2343,24 +2323,6 @@
     },
     {
       "status": "want_to_read",
-      "title": "Corrupt",
-      "author": "Penelope Douglas",
-      "fableBookId": "6eb943ff-8d84-46f4-87f6-41d905f02e5d",
-      "isbn": "Axr0krHxG9",
-      "genres": [
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 52
-    },
-    {
-      "status": "want_to_read",
       "title": "Flock",
       "author": "Kate Stewart",
       "fableBookId": "65219bc0-c2aa-4ebc-85b5-9305629802eb",
@@ -2378,22 +2340,42 @@
       "sortValue": 53
     },
     {
-      "status": "current_reading",
-      "title": "21 Days of Fear",
-      "author": "Hervé Commère",
-      "fableBookId": "f385f2b8-4323-43ca-8c59-c7ec7e69dc84",
-      "isbn": "9798347119622",
+      "status": "want_to_read",
+      "title": "Corrupt",
+      "author": "Penelope Douglas",
+      "fableBookId": "6eb943ff-8d84-46f4-87f6-41d905f02e5d",
+      "isbn": "Axr0krHxG9",
       "genres": [
-        "Young Adult"
+        "Romance"
       ],
       "rating": null,
       "favorite": false,
       "hasReview": false,
       "reviewLink": null,
-      "startedReading": "2026-10-01",
+      "startedReading": null,
       "finishedReading": null,
       "note": null,
-      "sortValue": 12
+      "sortValue": 52
+    },
+    {
+      "status": "current_reading",
+      "title": "The Witch",
+      "author": "Freida McFadden",
+      "fableBookId": "1e766dcd-dae1-4e9b-b6d2-5429ef5b2e4f",
+      "isbn": "9781464249648",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-10-27",
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 13
     },
     {
       "status": "current_reading",
@@ -2429,6 +2411,24 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "21 Days of Fear",
+      "author": "Hervé Commère",
+      "fableBookId": "f385f2b8-4323-43ca-8c59-c7ec7e69dc84",
+      "isbn": "9798347119622",
+      "genres": [
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-10-01",
+      "finishedReading": "2026-10-28",
+      "note": null,
+      "sortValue": 165
     },
     {
       "status": "finished",
