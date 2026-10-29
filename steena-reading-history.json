@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T17:58:42.253019+00:00",
+  "lastUpdated": "2026-10-29T18:08:04.397198+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -13,12 +13,12 @@
     },
     "current_reading": {
       "id": "17de8b82-286f-4ab2-8475-3f458cd1772d",
-      "count": 3,
+      "count": 2,
       "privacy": "everyone"
     },
     "finished": {
       "id": "d3b8d59b-5656-40d3-94ce-aaf917e262ed",
-      "count": 129,
+      "count": 130,
       "privacy": "everyone"
     },
     "did_not_finish": {
@@ -2379,25 +2379,6 @@
     },
     {
       "status": "current_reading",
-      "title": "Paint It All Red (Mindf*ck, #5)",
-      "author": "S.T. Abby",
-      "fableBookId": "d1fe2bce-1d32-4a01-b0ac-9c7894d56a79",
-      "isbn": "eYzc6z3BYP",
-      "genres": [
-        "Romance",
-        "Thrillers"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": "2026-09-30",
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 11
-    },
-    {
-      "status": "current_reading",
       "title": "Bodies of Work",
       "author": "Clay McLeod Chapman",
       "fableBookId": "f1a44516-5f08-4165-82b6-6f461c779d08",
@@ -2411,6 +2392,25 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 9
+    },
+    {
+      "status": "finished",
+      "title": "Paint It All Red (Mindf*ck, #5)",
+      "author": "S.T. Abby",
+      "fableBookId": "d1fe2bce-1d32-4a01-b0ac-9c7894d56a79",
+      "isbn": "eYzc6z3BYP",
+      "genres": [
+        "Romance",
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": "2026-09-30",
+      "finishedReading": "2026-10-28",
+      "note": null,
+      "sortValue": 166
     },
     {
       "status": "finished",
@@ -2680,7 +2680,8 @@
       "fableBookId": "16955cba-4708-468b-b4db-bf660970053e",
       "isbn": "9781464279041",
       "genres": [
-        "Fantasy"
+        "Fantasy",
+        "Romance"
       ],
       "rating": 5.0,
       "favorite": false,
