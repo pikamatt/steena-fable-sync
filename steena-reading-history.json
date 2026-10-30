@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T18:08:04.397198+00:00",
+  "lastUpdated": "2026-10-30T17:47:07.331102+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -950,7 +950,10 @@
       "author": "Rina Kent",
       "fableBookId": "dce7acec-ed2f-4e5c-857e-5fabf14252e8",
       "isbn": "YfZcH773eK",
-      "genres": [],
+      "genres": [
+        "Dark Romance",
+        "Romance"
+      ],
       "rating": null,
       "favorite": false,
       "hasReview": false,
