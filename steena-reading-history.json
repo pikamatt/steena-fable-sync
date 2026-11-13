@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T19:38:14.263219+00:00",
+  "lastUpdated": "2026-11-13T19:18:53.920083+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -8,7 +8,7 @@
   "lists": {
     "want_to_read": {
       "id": "cac47a1d-c24f-4f40-9eff-91cd43f4707f",
-      "count": 125,
+      "count": 136,
       "privacy": "everyone"
     },
     "current_reading": {
@@ -28,6 +28,209 @@
     }
   },
   "books": [
+    {
+      "status": "want_to_read",
+      "title": "Four: A Divergent Collection",
+      "author": "Veronica Roth",
+      "fableBookId": "08d48910-8e67-422b-b00d-a713dc62de05",
+      "isbn": "B00IRCZGXY",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 175
+    },
+    {
+      "status": "want_to_read",
+      "title": "Allegiant",
+      "author": "Veronica Roth",
+      "fableBookId": "5fc9cc0d-58ce-426a-b913-3bf4f2367683",
+      "isbn": "9780062209276",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 174
+    },
+    {
+      "status": "want_to_read",
+      "title": "Insurgent",
+      "author": "Veronica Roth",
+      "fableBookId": "4bc8d5ad-2b97-4b40-9dd9-63f059327016",
+      "isbn": "9780062114457",
+      "genres": [
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 173
+    },
+    {
+      "status": "want_to_read",
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "fableBookId": "178e9d6f-7676-4bef-89f0-14f339320d11",
+      "isbn": "9780316007443",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 172
+    },
+    {
+      "status": "want_to_read",
+      "title": "New Moon",
+      "author": "Stephenie Meyer",
+      "fableBookId": "1dd889e5-81c1-4d05-b189-1ac04cba5ac8",
+      "isbn": "9780316007726",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Young Adult"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 171
+    },
+    {
+      "status": "want_to_read",
+      "title": "House of Rayne",
+      "author": "Harley Laroux",
+      "fableBookId": "3f2cb000-5a80-4b9f-a450-f541e33f3e6b",
+      "isbn": "9781496756220",
+      "genres": [
+        "Dark Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 170
+    },
+    {
+      "status": "want_to_read",
+      "title": "Rose in Chains",
+      "author": "Julie Soto",
+      "fableBookId": "104f2300-4999-4ff8-b775-f938a6bf2266",
+      "isbn": "9780008711696",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 169
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Murder at World's End",
+      "author": "Ross Montgomery",
+      "fableBookId": "8aa80d63-97f4-4819-9925-4373ee321172",
+      "isbn": "9780063458758",
+      "genres": [
+        "Mystery"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 168
+    },
+    {
+      "status": "want_to_read",
+      "title": "His Tesoro: An Arranged Marriage Age Gap Mafia Romance (Empire of Royals Book 1)",
+      "author": "Emilia  Rossi",
+      "fableBookId": "09b74e7f-5c1c-4bbd-b04d-956c0600c1ed",
+      "isbn": "3E9hMKXptN",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 167
+    },
+    {
+      "status": "want_to_read",
+      "title": "Snowed In",
+      "author": "Navessa Allen",
+      "fableBookId": "0688ad94-1b59-407e-988e-b74476101978",
+      "isbn": "hV8cTr7rRY",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 166
+    },
+    {
+      "status": "want_to_read",
+      "title": "The Gift: A Short Story",
+      "author": "Freida McFadden",
+      "fableBookId": "9f5e580e-68ce-4ede-98db-be30489915f1",
+      "isbn": "9781628863925",
+      "genres": [
+        "Thrillers"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 165
+    },
     {
       "status": "want_to_read",
       "title": "Pen Pal",
@@ -2256,6 +2459,22 @@
     },
     {
       "status": "want_to_read",
+      "title": "The Shadows: Book One of The Blackwell Series",
+      "author": "G.L. Strong",
+      "fableBookId": "3680ed6a-0568-40d4-8d79-a36dcf0c81de",
+      "isbn": "soKB7cGvgE",
+      "genres": [],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 47
+    },
+    {
+      "status": "want_to_read",
       "title": "The Only Survivors",
       "author": "Megan Miranda",
       "fableBookId": "9ed410e1-95c7-41e6-8f20-e75763759434",
@@ -2271,22 +2490,6 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 48
-    },
-    {
-      "status": "want_to_read",
-      "title": "The Shadows: Book One of The Blackwell Series",
-      "author": "G.L. Strong",
-      "fableBookId": "3680ed6a-0568-40d4-8d79-a36dcf0c81de",
-      "isbn": "soKB7cGvgE",
-      "genres": [],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 47
     },
     {
       "status": "want_to_read",
@@ -2327,24 +2530,6 @@
     },
     {
       "status": "want_to_read",
-      "title": "Flock",
-      "author": "Kate Stewart",
-      "fableBookId": "65219bc0-c2aa-4ebc-85b5-9305629802eb",
-      "isbn": "9781496756695",
-      "genres": [
-        "Romance"
-      ],
-      "rating": null,
-      "favorite": false,
-      "hasReview": false,
-      "reviewLink": null,
-      "startedReading": null,
-      "finishedReading": null,
-      "note": null,
-      "sortValue": 53
-    },
-    {
-      "status": "want_to_read",
       "title": "Corrupt",
       "author": "Penelope Douglas",
       "fableBookId": "6eb943ff-8d84-46f4-87f6-41d905f02e5d",
@@ -2360,6 +2545,24 @@
       "finishedReading": null,
       "note": null,
       "sortValue": 52
+    },
+    {
+      "status": "want_to_read",
+      "title": "Flock",
+      "author": "Kate Stewart",
+      "fableBookId": "65219bc0-c2aa-4ebc-85b5-9305629802eb",
+      "isbn": "9781496756695",
+      "genres": [
+        "Romance"
+      ],
+      "rating": null,
+      "favorite": false,
+      "hasReview": false,
+      "reviewLink": null,
+      "startedReading": null,
+      "finishedReading": null,
+      "note": null,
+      "sortValue": 53
     },
     {
       "status": "current_reading",
