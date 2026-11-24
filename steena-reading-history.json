@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T23:29:53.383758+00:00",
+  "lastUpdated": "2026-11-24T21:59:59.281070+00:00",
   "profile": {
     "displayName": "Steena",
     "profileUrl": "https://fable.co/fabler/steena-244021637723",
@@ -166,7 +166,8 @@
       "fableBookId": "8aa80d63-97f4-4819-9925-4373ee321172",
       "isbn": "9780063458758",
       "genres": [
-        "Mystery"
+        "Mystery",
+        "Thrillers"
       ],
       "rating": null,
       "favorite": false,
